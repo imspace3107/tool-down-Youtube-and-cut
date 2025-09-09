@@ -1,0 +1,14 @@
+# YouTube Video Downloader Desktop App Requirements
+# Các thư viện phiên bản mới nhất
+
+yt-dlp>=2024.1.7
+ffmpeg-python>=0.2.0
+tqdm>=4.66.1
+requests>=2.31.0
+Pillow>=10.2.0
+
+# Video processing
+opencv-python>=4.9.0.80
+
+# Note: tkinter, os, random, threading are built-in modules
+# Note: pathos and tkinter-tooltip are optional and may cause installation issues
