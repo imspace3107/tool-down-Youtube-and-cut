@@ -139,15 +139,15 @@ class YouTubeDownloaderApp:
         
         ttk.Label(time_frame, text="Thời gian tối thiểu (giây):").grid(row=0, column=0, sticky="w", padx=(0, 5))
         self.min_time = tk.IntVar(value=config.MIN_CUT_TIME)
-        ttk.Spinbox(time_frame, from_=10, to=300, textvariable=self.min_time, width=10).grid(row=0, column=1, padx=(0, 20))
+        ttk.Spinbox(time_frame, from_=10, to=300, textvariable=self.min_time, width=10, command=self.on_config_change).grid(row=0, column=1, padx=(0, 20))
         
         ttk.Label(time_frame, text="Thời gian tối đa (giây):").grid(row=0, column=2, sticky="w", padx=(0, 5))
         self.max_time = tk.IntVar(value=config.MAX_CUT_TIME)
-        ttk.Spinbox(time_frame, from_=30, to=600, textvariable=self.max_time, width=10).grid(row=0, column=3)
+        ttk.Spinbox(time_frame, from_=30, to=600, textvariable=self.max_time, width=10, command=self.on_config_change).grid(row=0, column=3)
         
         ttk.Label(time_frame, text="Thời gian tối thiểu cho video ngắn (giây):").grid(row=1, column=0, columnspan=2, sticky="w", pady=(5, 0))
         self.short_video_time = tk.IntVar(value=config.SHORT_VIDEO_THRESHOLD)
-        ttk.Spinbox(time_frame, from_=5, to=60, textvariable=self.short_video_time, width=10).grid(row=1, column=2, pady=(5, 0))
+        ttk.Spinbox(time_frame, from_=5, to=60, textvariable=self.short_video_time, width=10, command=self.on_config_change).grid(row=1, column=2, pady=(5, 0))
         
         # Frame tiến trình và điều khiển
         control_frame = ttk.LabelFrame(main_frame, text="Điều khiển", padding=10)
@@ -172,6 +172,10 @@ class YouTubeDownloaderApp:
         
         self.stop_button = ttk.Button(button_frame, text="Dừng", command=self.stop_download, state="disabled")
         self.stop_button.pack(side="left")
+        
+        # Nút lưu cài đặt
+        self.save_config_button = ttk.Button(button_frame, text="Lưu cài đặt", command=self.save_config_to_file)
+        self.save_config_button.pack(side="right")
         
         # Log area
         log_frame = ttk.LabelFrame(main_frame, text="Log", padding=10)
@@ -269,9 +273,73 @@ class YouTubeDownloaderApp:
         self.root.update_idletasks()
         
     def update_progress(self, value):
-        """Cập nhật thanh tiến trình"""
+        """Cập nhật tiến trình"""
         self.progress_var.set(value)
         self.root.update_idletasks()
+    
+    def update_config_from_gui(self):
+        """Cập nhật config từ các giá trị trên GUI"""
+        try:
+            # Cập nhật các giá trị cắt video
+            config.MIN_CUT_TIME = self.min_time.get()
+            config.MAX_CUT_TIME = self.max_time.get()
+            config.SHORT_VIDEO_THRESHOLD = self.short_video_time.get()
+            
+            # Cập nhật độ phân giải mặc định
+            config.DEFAULT_RESOLUTION = self.resolution_var.get()
+            
+            # Cập nhật thư mục tải mặc định
+            config.DEFAULT_DOWNLOAD_DIR = self.download_folder.get()
+            
+            self.log(f"Đã cập nhật config: MIN_CUT_TIME={config.MIN_CUT_TIME}, MAX_CUT_TIME={config.MAX_CUT_TIME}, SHORT_VIDEO_THRESHOLD={config.SHORT_VIDEO_THRESHOLD}")
+            
+        except Exception as e:
+            self.log(f"Lỗi khi cập nhật config: {str(e)}")
+            logger.error(f"Lỗi cập nhật config: {str(e)}", exc_info=True)
+    
+    def save_config_to_file(self):
+        """Lưu config hiện tại vào file config.py"""
+        try:
+            # Cập nhật config từ GUI trước khi lưu
+            self.update_config_from_gui()
+            
+            # Đọc file config hiện tại
+            config_file_path = "config.py"
+            with open(config_file_path, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            # Cập nhật các giá trị trong file
+            updated_lines = []
+            for line in lines:
+                if line.strip().startswith('MIN_CUT_TIME ='):
+                    updated_lines.append(f"    MIN_CUT_TIME = {config.MIN_CUT_TIME}\n")
+                elif line.strip().startswith('MAX_CUT_TIME ='):
+                    updated_lines.append(f"    MAX_CUT_TIME = {config.MAX_CUT_TIME}\n")
+                elif line.strip().startswith('SHORT_VIDEO_THRESHOLD ='):
+                    updated_lines.append(f"    SHORT_VIDEO_THRESHOLD = {config.SHORT_VIDEO_THRESHOLD}\n")
+                elif line.strip().startswith('DEFAULT_RESOLUTION ='):
+                    updated_lines.append(f"    DEFAULT_RESOLUTION = '{config.DEFAULT_RESOLUTION}'\n")
+                elif line.strip().startswith('DEFAULT_DOWNLOAD_DIR ='):
+                    updated_lines.append(f"    DEFAULT_DOWNLOAD_DIR = r'{config.DEFAULT_DOWNLOAD_DIR}'\n")
+                else:
+                    updated_lines.append(line)
+            
+            # Ghi lại file
+            with open(config_file_path, 'w', encoding='utf-8') as f:
+                f.writelines(updated_lines)
+            
+            self.log("Đã lưu cài đặt vào file config.py")
+            messagebox.showinfo("Thành công", "Đã lưu cài đặt vào file config.py")
+            
+        except Exception as e:
+            self.log(f"Lỗi khi lưu config: {str(e)}")
+            logger.error(f"Lỗi lưu config: {str(e)}", exc_info=True)
+            messagebox.showerror("Lỗi", f"Không thể lưu cài đặt: {str(e)}")
+    
+    def on_config_change(self):
+        """Callback khi giá trị config thay đổi trên GUI"""
+        # Cập nhật config trong bộ nhớ
+        self.update_config_from_gui()
         
     def start_download(self):
         """Bắt đầu quá trình tải video"""

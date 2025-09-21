@@ -291,3 +291,591 @@ Tất cả file đã được lưu trong: C:\Users\LAPTOP\Downloads
 2025-09-09 14:55:04,544 - VideoSplitter - INFO - Creating segment 8: start=732.00s, duration=72.03s
 2025-09-09 14:55:04,790 - VideoSplitter - INFO - Segment 8 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4
 2025-09-09 14:55:04,791 - VideoSplitter - INFO - Successfully created 8 segments
+2025-09-09 15:38:35,540 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:38:36,461 - VideoSplitter - INFO - Video duration: 804.03 seconds
+2025-09-09 15:38:36,461 - VideoSplitter - INFO - Will create 8 segments
+2025-09-09 15:38:36,462 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=97.00s
+2025-09-09 15:38:37,334 - VideoSplitter - INFO - Segment 1 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4
+2025-09-09 15:38:37,334 - VideoSplitter - INFO - Creating segment 2: start=97.00s, duration=108.00s
+2025-09-09 15:38:37,730 - VideoSplitter - INFO - Segment 2 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4
+2025-09-09 15:38:37,731 - VideoSplitter - INFO - Creating segment 3: start=205.00s, duration=105.00s
+2025-09-09 15:38:38,578 - VideoSplitter - INFO - Segment 3 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4
+2025-09-09 15:38:38,579 - VideoSplitter - INFO - Creating segment 4: start=310.00s, duration=101.00s
+2025-09-09 15:38:39,338 - VideoSplitter - INFO - Segment 4 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4
+2025-09-09 15:38:39,339 - VideoSplitter - INFO - Creating segment 5: start=411.00s, duration=107.00s
+2025-09-09 15:38:40,488 - VideoSplitter - INFO - Segment 5 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4
+2025-09-09 15:38:40,488 - VideoSplitter - INFO - Creating segment 6: start=518.00s, duration=105.00s
+2025-09-09 15:38:41,766 - VideoSplitter - INFO - Segment 6 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4
+2025-09-09 15:38:41,767 - VideoSplitter - INFO - Creating segment 7: start=623.00s, duration=99.00s
+2025-09-09 15:38:42,833 - VideoSplitter - INFO - Segment 7 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4
+2025-09-09 15:38:42,834 - VideoSplitter - INFO - Creating segment 8: start=722.00s, duration=82.03s
+2025-09-09 15:38:43,891 - VideoSplitter - INFO - Segment 8 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4
+2025-09-09 15:38:43,892 - VideoSplitter - INFO - Successfully created 8 segments
+2025-09-09 15:45:06,071 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:45:06,233 - VideoSplitter - INFO - Video duration: 804.03 seconds
+2025-09-09 15:45:06,234 - VideoSplitter - INFO - Will create 8 segments
+2025-09-09 15:45:06,235 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=96.00s
+2025-09-09 15:45:06,698 - VideoSplitter - INFO - Segment 1 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4
+2025-09-09 15:45:06,699 - VideoSplitter - INFO - Creating segment 2: start=96.00s, duration=99.00s
+2025-09-09 15:45:07,010 - VideoSplitter - INFO - Segment 2 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4
+2025-09-09 15:45:07,011 - VideoSplitter - INFO - Creating segment 3: start=195.00s, duration=101.00s
+2025-09-09 15:45:07,257 - VideoSplitter - INFO - Segment 3 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4
+2025-09-09 15:45:07,257 - VideoSplitter - INFO - Creating segment 4: start=296.00s, duration=104.00s
+2025-09-09 15:45:07,750 - VideoSplitter - INFO - Segment 4 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4
+2025-09-09 15:45:07,751 - VideoSplitter - INFO - Creating segment 5: start=400.00s, duration=95.00s
+2025-09-09 15:45:09,452 - VideoSplitter - INFO - Segment 5 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4
+2025-09-09 15:45:09,470 - VideoSplitter - INFO - Creating segment 6: start=495.00s, duration=96.00s
+2025-09-09 15:45:10,386 - VideoSplitter - INFO - Segment 6 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4
+2025-09-09 15:45:10,387 - VideoSplitter - INFO - Creating segment 7: start=591.00s, duration=104.00s
+2025-09-09 15:45:11,494 - VideoSplitter - INFO - Segment 7 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4
+2025-09-09 15:45:11,495 - VideoSplitter - INFO - Creating segment 8: start=695.00s, duration=109.03s
+2025-09-09 15:45:12,800 - VideoSplitter - INFO - Segment 8 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4
+2025-09-09 15:45:12,800 - VideoSplitter - INFO - Successfully created 8 segments
+2025-09-10 18:02:34,917 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig.mp4
+2025-09-10 18:02:37,271 - VideoSplitter - INFO - Video duration: 2410.95 seconds
+2025-09-10 18:02:37,272 - VideoSplitter - INFO - Will create 23 segments
+2025-09-10 18:02:37,273 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=109.00s
+2025-09-10 18:02:40,234 - VideoSplitter - INFO - Segment 1 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_01.mp4
+2025-09-10 18:02:40,235 - VideoSplitter - INFO - Creating segment 2: start=109.00s, duration=97.00s
+2025-09-10 18:02:41,529 - VideoSplitter - INFO - Segment 2 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_02.mp4
+2025-09-10 18:02:41,530 - VideoSplitter - INFO - Creating segment 3: start=206.00s, duration=106.00s
+2025-09-10 18:02:43,466 - VideoSplitter - INFO - Segment 3 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_03.mp4
+2025-09-10 18:02:43,467 - VideoSplitter - INFO - Creating segment 4: start=312.00s, duration=97.00s
+2025-09-10 18:02:44,780 - VideoSplitter - INFO - Segment 4 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_04.mp4
+2025-09-10 18:02:44,781 - VideoSplitter - INFO - Creating segment 5: start=409.00s, duration=95.00s
+2025-09-10 18:02:46,760 - VideoSplitter - INFO - Segment 5 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_05.mp4
+2025-09-10 18:02:46,762 - VideoSplitter - INFO - Creating segment 6: start=504.00s, duration=103.00s
+2025-09-10 18:02:48,104 - VideoSplitter - INFO - Segment 6 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_06.mp4
+2025-09-10 18:02:48,106 - VideoSplitter - INFO - Creating segment 7: start=607.00s, duration=105.00s
+2025-09-10 18:02:49,465 - VideoSplitter - INFO - Segment 7 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_07.mp4
+2025-09-10 18:02:49,467 - VideoSplitter - INFO - Creating segment 8: start=712.00s, duration=109.00s
+2025-09-10 18:02:51,706 - VideoSplitter - INFO - Segment 8 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_08.mp4
+2025-09-10 18:02:51,708 - VideoSplitter - INFO - Creating segment 9: start=821.00s, duration=95.00s
+2025-09-10 18:02:53,440 - VideoSplitter - INFO - Segment 9 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_09.mp4
+2025-09-10 18:02:53,442 - VideoSplitter - INFO - Creating segment 10: start=916.00s, duration=101.00s
+2025-09-10 18:02:54,923 - VideoSplitter - INFO - Segment 10 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_10.mp4
+2025-09-10 18:02:54,924 - VideoSplitter - INFO - Creating segment 11: start=1017.00s, duration=110.00s
+2025-09-10 18:02:56,774 - VideoSplitter - INFO - Segment 11 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_11.mp4
+2025-09-10 18:02:56,775 - VideoSplitter - INFO - Creating segment 12: start=1127.00s, duration=104.00s
+2025-09-10 18:02:58,661 - VideoSplitter - INFO - Segment 12 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_12.mp4
+2025-09-10 18:02:58,663 - VideoSplitter - INFO - Creating segment 13: start=1231.00s, duration=100.00s
+2025-09-10 18:03:00,513 - VideoSplitter - INFO - Segment 13 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_13.mp4
+2025-09-10 18:03:00,515 - VideoSplitter - INFO - Creating segment 14: start=1331.00s, duration=100.00s
+2025-09-10 18:03:02,528 - VideoSplitter - INFO - Segment 14 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_14.mp4
+2025-09-10 18:03:02,529 - VideoSplitter - INFO - Creating segment 15: start=1431.00s, duration=107.00s
+2025-09-10 18:03:04,104 - VideoSplitter - INFO - Segment 15 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_15.mp4
+2025-09-10 18:03:04,105 - VideoSplitter - INFO - Creating segment 16: start=1538.00s, duration=109.00s
+2025-09-10 18:03:05,788 - VideoSplitter - INFO - Segment 16 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_16.mp4
+2025-09-10 18:03:05,789 - VideoSplitter - INFO - Creating segment 17: start=1647.00s, duration=108.00s
+2025-09-10 18:03:07,954 - VideoSplitter - INFO - Segment 17 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_17.mp4
+2025-09-10 18:03:07,955 - VideoSplitter - INFO - Creating segment 18: start=1755.00s, duration=102.00s
+2025-09-10 18:03:10,025 - VideoSplitter - INFO - Segment 18 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_18.mp4
+2025-09-10 18:03:10,026 - VideoSplitter - INFO - Creating segment 19: start=1857.00s, duration=97.00s
+2025-09-10 18:03:11,710 - VideoSplitter - INFO - Segment 19 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_19.mp4
+2025-09-10 18:03:11,712 - VideoSplitter - INFO - Creating segment 20: start=1954.00s, duration=99.00s
+2025-09-10 18:03:13,051 - VideoSplitter - INFO - Segment 20 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_20.mp4
+2025-09-10 18:03:13,053 - VideoSplitter - INFO - Creating segment 21: start=2053.00s, duration=98.00s
+2025-09-10 18:03:14,365 - VideoSplitter - INFO - Segment 21 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_21.mp4
+2025-09-10 18:03:14,367 - VideoSplitter - INFO - Creating segment 22: start=2151.00s, duration=107.00s
+2025-09-10 18:03:15,644 - VideoSplitter - INFO - Segment 22 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_22.mp4
+2025-09-10 18:03:15,645 - VideoSplitter - INFO - Creating segment 23: start=2258.00s, duration=152.95s
+2025-09-10 18:03:17,160 - VideoSplitter - INFO - Segment 23 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_23.mp4
+2025-09-10 18:03:17,161 - VideoSplitter - INFO - Successfully created 23 segments
+2025-09-15 16:44:23,620 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM.mp4
+2025-09-15 16:44:24,523 - VideoSplitter - INFO - Video duration: 882.40 seconds
+2025-09-15 16:44:24,524 - VideoSplitter - INFO - Will create 8 segments
+2025-09-15 16:44:24,524 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=109.00s
+2025-09-15 16:44:24,880 - VideoSplitter - INFO - Segment 1 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_01.mp4
+2025-09-15 16:44:24,881 - VideoSplitter - INFO - Creating segment 2: start=109.00s, duration=100.00s
+2025-09-15 16:44:25,065 - VideoSplitter - INFO - Segment 2 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_02.mp4
+2025-09-15 16:44:25,066 - VideoSplitter - INFO - Creating segment 3: start=209.00s, duration=103.00s
+2025-09-15 16:44:25,257 - VideoSplitter - INFO - Segment 3 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_03.mp4
+2025-09-15 16:44:25,258 - VideoSplitter - INFO - Creating segment 4: start=312.00s, duration=108.00s
+2025-09-15 16:44:25,472 - VideoSplitter - INFO - Segment 4 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_04.mp4
+2025-09-15 16:44:25,780 - VideoSplitter - INFO - Creating segment 5: start=420.00s, duration=103.00s
+2025-09-15 16:44:26,088 - VideoSplitter - INFO - Segment 5 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_05.mp4
+2025-09-15 16:44:26,088 - VideoSplitter - INFO - Creating segment 6: start=523.00s, duration=109.00s
+2025-09-15 16:44:26,337 - VideoSplitter - INFO - Segment 6 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_06.mp4
+2025-09-15 16:44:26,338 - VideoSplitter - INFO - Creating segment 7: start=632.00s, duration=100.00s
+2025-09-15 16:44:26,494 - VideoSplitter - INFO - Segment 7 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_07.mp4
+2025-09-15 16:44:26,495 - VideoSplitter - INFO - Creating segment 8: start=732.00s, duration=150.40s
+2025-09-15 16:44:26,833 - VideoSplitter - INFO - Segment 8 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_08.mp4
+2025-09-15 16:44:26,834 - VideoSplitter - INFO - Successfully created 8 segments
+2025-09-15 16:54:23,183 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 16:54:24,100 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 16:54:24,101 - VideoSplitter - INFO - Will create 26 segments
+2025-09-15 16:54:24,102 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=106.00s
+2025-09-15 16:54:24,976 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 16:54:24,977 - VideoSplitter - INFO - Creating segment 2: start=106.00s, duration=108.00s
+2025-09-15 16:54:25,284 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 16:54:25,285 - VideoSplitter - INFO - Creating segment 3: start=214.00s, duration=96.00s
+2025-09-15 16:54:25,545 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 16:54:25,545 - VideoSplitter - INFO - Creating segment 4: start=310.00s, duration=102.00s
+2025-09-15 16:54:25,817 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 16:54:25,818 - VideoSplitter - INFO - Creating segment 5: start=412.00s, duration=101.00s
+2025-09-15 16:54:26,108 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 16:54:26,109 - VideoSplitter - INFO - Creating segment 6: start=513.00s, duration=95.00s
+2025-09-15 16:54:26,924 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 16:54:26,924 - VideoSplitter - INFO - Creating segment 7: start=608.00s, duration=99.00s
+2025-09-15 16:54:27,436 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 16:54:27,437 - VideoSplitter - INFO - Creating segment 8: start=707.00s, duration=108.00s
+2025-09-15 16:54:27,723 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 16:54:27,724 - VideoSplitter - INFO - Creating segment 9: start=815.00s, duration=98.00s
+2025-09-15 16:54:28,357 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 16:54:28,505 - VideoSplitter - INFO - Creating segment 10: start=913.00s, duration=98.00s
+2025-09-15 16:54:28,770 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 16:54:28,771 - VideoSplitter - INFO - Creating segment 11: start=1011.00s, duration=95.00s
+2025-09-15 16:54:30,113 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 16:54:30,114 - VideoSplitter - INFO - Creating segment 12: start=1106.00s, duration=95.00s
+2025-09-15 16:54:30,813 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 16:54:30,814 - VideoSplitter - INFO - Creating segment 13: start=1201.00s, duration=106.00s
+2025-09-15 16:54:31,364 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 16:54:31,365 - VideoSplitter - INFO - Creating segment 14: start=1307.00s, duration=95.00s
+2025-09-15 16:54:32,599 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 16:54:32,600 - VideoSplitter - INFO - Creating segment 15: start=1402.00s, duration=97.00s
+2025-09-15 16:54:33,785 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 16:54:33,786 - VideoSplitter - INFO - Creating segment 16: start=1499.00s, duration=108.00s
+2025-09-15 16:54:34,382 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 16:54:34,383 - VideoSplitter - INFO - Creating segment 17: start=1607.00s, duration=105.00s
+2025-09-15 16:54:35,941 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 16:54:35,942 - VideoSplitter - INFO - Creating segment 18: start=1712.00s, duration=108.00s
+2025-09-15 16:54:36,569 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 16:54:36,570 - VideoSplitter - INFO - Creating segment 19: start=1820.00s, duration=96.00s
+2025-09-15 16:54:37,879 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 16:54:37,879 - VideoSplitter - INFO - Creating segment 20: start=1916.00s, duration=95.00s
+2025-09-15 16:54:39,487 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 16:54:39,488 - VideoSplitter - INFO - Creating segment 21: start=2011.00s, duration=107.00s
+2025-09-15 16:54:41,242 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 16:54:41,243 - VideoSplitter - INFO - Creating segment 22: start=2118.00s, duration=104.00s
+2025-09-15 16:54:42,532 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 16:54:42,533 - VideoSplitter - INFO - Creating segment 23: start=2222.00s, duration=107.00s
+2025-09-15 16:54:43,610 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 16:54:43,611 - VideoSplitter - INFO - Creating segment 24: start=2329.00s, duration=97.00s
+2025-09-15 16:54:44,219 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 16:54:44,220 - VideoSplitter - INFO - Creating segment 25: start=2426.00s, duration=95.00s
+2025-09-15 16:54:45,744 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 16:54:45,745 - VideoSplitter - INFO - Creating segment 26: start=2521.00s, duration=141.16s
+2025-09-15 16:54:47,554 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 16:54:47,554 - VideoSplitter - INFO - Successfully created 26 segments
+2025-09-15 17:04:56,187 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:04:57,141 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:04:57,141 - VideoSplitter - INFO - Will create 26 segments
+2025-09-15 17:04:57,142 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=95.00s
+2025-09-15 17:04:58,308 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:04:58,309 - VideoSplitter - INFO - Creating segment 2: start=95.00s, duration=102.00s
+2025-09-15 17:04:58,621 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:04:58,622 - VideoSplitter - INFO - Creating segment 3: start=197.00s, duration=108.00s
+2025-09-15 17:04:59,239 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:04:59,240 - VideoSplitter - INFO - Creating segment 4: start=305.00s, duration=101.00s
+2025-09-15 17:04:59,983 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:04:59,984 - VideoSplitter - INFO - Creating segment 5: start=406.00s, duration=99.00s
+2025-09-15 17:05:01,123 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:05:01,124 - VideoSplitter - INFO - Creating segment 6: start=505.00s, duration=110.00s
+2025-09-15 17:05:02,251 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:05:02,252 - VideoSplitter - INFO - Creating segment 7: start=615.00s, duration=103.00s
+2025-09-15 17:05:03,234 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:05:03,234 - VideoSplitter - INFO - Creating segment 8: start=718.00s, duration=104.00s
+2025-09-15 17:05:04,514 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:05:04,515 - VideoSplitter - INFO - Creating segment 9: start=822.00s, duration=98.00s
+2025-09-15 17:05:05,159 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:05:05,160 - VideoSplitter - INFO - Creating segment 10: start=920.00s, duration=97.00s
+2025-09-15 17:05:05,848 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:05:05,849 - VideoSplitter - INFO - Creating segment 11: start=1017.00s, duration=101.00s
+2025-09-15 17:05:07,284 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:05:07,285 - VideoSplitter - INFO - Creating segment 12: start=1118.00s, duration=106.00s
+2025-09-15 17:05:08,074 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:05:08,074 - VideoSplitter - INFO - Creating segment 13: start=1224.00s, duration=98.00s
+2025-09-15 17:05:09,387 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:05:09,388 - VideoSplitter - INFO - Creating segment 14: start=1322.00s, duration=103.00s
+2025-09-15 17:05:10,486 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:05:10,487 - VideoSplitter - INFO - Creating segment 15: start=1425.00s, duration=103.00s
+2025-09-15 17:05:11,373 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:05:11,373 - VideoSplitter - INFO - Creating segment 16: start=1528.00s, duration=102.00s
+2025-09-15 17:05:12,102 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:05:12,102 - VideoSplitter - INFO - Creating segment 17: start=1630.00s, duration=96.00s
+2025-09-15 17:05:13,989 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:05:13,993 - VideoSplitter - INFO - Creating segment 18: start=1726.00s, duration=96.00s
+2025-09-15 17:05:16,102 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:05:16,103 - VideoSplitter - INFO - Creating segment 19: start=1822.00s, duration=110.00s
+2025-09-15 17:05:17,246 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:05:17,247 - VideoSplitter - INFO - Creating segment 20: start=1932.00s, duration=103.00s
+2025-09-15 17:05:19,013 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:05:19,014 - VideoSplitter - INFO - Creating segment 21: start=2035.00s, duration=99.00s
+2025-09-15 17:05:20,252 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:05:20,252 - VideoSplitter - INFO - Creating segment 22: start=2134.00s, duration=96.00s
+2025-09-15 17:05:21,437 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:05:21,437 - VideoSplitter - INFO - Creating segment 23: start=2230.00s, duration=101.00s
+2025-09-15 17:05:22,050 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:05:22,050 - VideoSplitter - INFO - Creating segment 24: start=2331.00s, duration=96.00s
+2025-09-15 17:05:22,611 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:05:22,612 - VideoSplitter - INFO - Creating segment 25: start=2427.00s, duration=99.00s
+2025-09-15 17:05:24,372 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:05:24,373 - VideoSplitter - INFO - Creating segment 26: start=2526.00s, duration=136.16s
+2025-09-15 17:05:26,196 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:05:26,196 - VideoSplitter - INFO - Successfully created 26 segments
+2025-09-15 17:13:15,010 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:13:15,553 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:13:15,554 - VideoSplitter - INFO - Will create 37 segments
+2025-09-15 17:13:15,556 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=73.00s
+2025-09-15 17:13:16,334 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:13:16,336 - VideoSplitter - INFO - Creating segment 2: start=73.00s, duration=72.00s
+2025-09-15 17:13:18,306 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:13:18,307 - VideoSplitter - INFO - Creating segment 3: start=145.00s, duration=71.00s
+2025-09-15 17:13:19,086 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:13:19,087 - VideoSplitter - INFO - Creating segment 4: start=216.00s, duration=72.00s
+2025-09-15 17:13:20,036 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:13:20,038 - VideoSplitter - INFO - Creating segment 5: start=288.00s, duration=71.00s
+2025-09-15 17:13:21,132 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:13:21,133 - VideoSplitter - INFO - Creating segment 6: start=359.00s, duration=74.00s
+2025-09-15 17:13:21,869 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:13:21,871 - VideoSplitter - INFO - Creating segment 7: start=433.00s, duration=71.00s
+2025-09-15 17:13:22,690 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:13:22,691 - VideoSplitter - INFO - Creating segment 8: start=504.00s, duration=72.00s
+2025-09-15 17:13:23,775 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:13:23,777 - VideoSplitter - INFO - Creating segment 9: start=576.00s, duration=71.00s
+2025-09-15 17:13:24,545 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:13:24,546 - VideoSplitter - INFO - Creating segment 10: start=647.00s, duration=73.00s
+2025-09-15 17:13:25,569 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:13:25,571 - VideoSplitter - INFO - Creating segment 11: start=720.00s, duration=72.00s
+2025-09-15 17:13:26,725 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:13:26,727 - VideoSplitter - INFO - Creating segment 12: start=792.00s, duration=73.00s
+2025-09-15 17:13:27,423 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:13:27,424 - VideoSplitter - INFO - Creating segment 13: start=865.00s, duration=71.00s
+2025-09-15 17:13:28,127 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:13:28,129 - VideoSplitter - INFO - Creating segment 14: start=936.00s, duration=71.00s
+2025-09-15 17:13:28,874 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:13:28,875 - VideoSplitter - INFO - Creating segment 15: start=1007.00s, duration=73.00s
+2025-09-15 17:13:30,422 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:13:30,423 - VideoSplitter - INFO - Creating segment 16: start=1080.00s, duration=72.00s
+2025-09-15 17:13:31,281 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:13:31,282 - VideoSplitter - INFO - Creating segment 17: start=1152.00s, duration=74.00s
+2025-09-15 17:13:32,095 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:13:32,097 - VideoSplitter - INFO - Creating segment 18: start=1226.00s, duration=71.00s
+2025-09-15 17:13:32,968 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:13:32,969 - VideoSplitter - INFO - Creating segment 19: start=1297.00s, duration=71.00s
+2025-09-15 17:13:34,439 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:13:34,440 - VideoSplitter - INFO - Creating segment 20: start=1368.00s, duration=71.00s
+2025-09-15 17:13:35,122 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:13:35,123 - VideoSplitter - INFO - Creating segment 21: start=1439.00s, duration=72.00s
+2025-09-15 17:13:36,267 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:13:36,268 - VideoSplitter - INFO - Creating segment 22: start=1511.00s, duration=74.00s
+2025-09-15 17:13:36,984 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:13:36,985 - VideoSplitter - INFO - Creating segment 23: start=1585.00s, duration=74.00s
+2025-09-15 17:13:37,739 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:13:37,739 - VideoSplitter - INFO - Creating segment 24: start=1659.00s, duration=71.00s
+2025-09-15 17:13:38,761 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:13:38,762 - VideoSplitter - INFO - Creating segment 25: start=1730.00s, duration=73.00s
+2025-09-15 17:13:40,055 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:13:40,057 - VideoSplitter - INFO - Creating segment 26: start=1803.00s, duration=73.00s
+2025-09-15 17:13:41,756 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:13:41,758 - VideoSplitter - INFO - Creating segment 27: start=1876.00s, duration=73.00s
+2025-09-15 17:13:43,178 - VideoSplitter - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:13:43,180 - VideoSplitter - INFO - Creating segment 28: start=1949.00s, duration=74.00s
+2025-09-15 17:13:44,466 - VideoSplitter - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:13:44,471 - VideoSplitter - INFO - Creating segment 29: start=2023.00s, duration=73.00s
+2025-09-15 17:13:45,455 - VideoSplitter - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:13:45,459 - VideoSplitter - INFO - Creating segment 30: start=2096.00s, duration=74.00s
+2025-09-15 17:13:47,530 - VideoSplitter - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:13:47,534 - VideoSplitter - INFO - Creating segment 31: start=2170.00s, duration=72.00s
+2025-09-15 17:13:48,777 - VideoSplitter - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:13:48,779 - VideoSplitter - INFO - Creating segment 32: start=2242.00s, duration=72.00s
+2025-09-15 17:13:50,310 - VideoSplitter - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:13:50,312 - VideoSplitter - INFO - Creating segment 33: start=2314.00s, duration=74.00s
+2025-09-15 17:13:51,158 - VideoSplitter - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:13:51,161 - VideoSplitter - INFO - Creating segment 34: start=2388.00s, duration=72.00s
+2025-09-15 17:13:52,346 - VideoSplitter - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:13:52,348 - VideoSplitter - INFO - Creating segment 35: start=2460.00s, duration=71.00s
+2025-09-15 17:13:53,274 - VideoSplitter - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:13:53,276 - VideoSplitter - INFO - Creating segment 36: start=2531.00s, duration=71.00s
+2025-09-15 17:13:53,929 - VideoSplitter - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:13:53,932 - VideoSplitter - INFO - Creating segment 37: start=2602.00s, duration=60.16s
+2025-09-15 17:13:55,058 - VideoSplitter - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:13:55,060 - VideoSplitter - INFO - Successfully created 37 segments
+2025-09-15 17:16:03,099 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:03,350 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:16:03,350 - VideoSplitter - INFO - Will create 36 segments
+2025-09-15 17:16:03,351 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=73.00s
+2025-09-15 17:16:03,929 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:16:03,930 - VideoSplitter - INFO - Creating segment 2: start=73.00s, duration=73.00s
+2025-09-15 17:16:04,490 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:16:04,569 - VideoSplitter - INFO - Creating segment 3: start=146.00s, duration=73.00s
+2025-09-15 17:16:05,261 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:16:05,340 - VideoSplitter - INFO - Creating segment 4: start=219.00s, duration=71.00s
+2025-09-15 17:16:06,215 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:16:06,293 - VideoSplitter - INFO - Creating segment 5: start=290.00s, duration=72.00s
+2025-09-15 17:16:07,390 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:16:07,468 - VideoSplitter - INFO - Creating segment 6: start=362.00s, duration=74.00s
+2025-09-15 17:16:08,394 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:16:08,471 - VideoSplitter - INFO - Creating segment 7: start=436.00s, duration=71.00s
+2025-09-15 17:16:08,830 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:08,993 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:16:08,993 - VideoSplitter - INFO - Will create 37 segments
+2025-09-15 17:16:08,994 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=74.00s
+2025-09-15 17:16:09,202 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:16:09,203 - VideoSplitter - INFO - Creating segment 2: start=74.00s, duration=71.00s
+2025-09-15 17:16:10,082 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:16:10,082 - VideoSplitter - INFO - Creating segment 3: start=145.00s, duration=72.00s
+2025-09-15 17:16:10,488 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:16:10,489 - VideoSplitter - INFO - Creating segment 4: start=217.00s, duration=72.00s
+2025-09-15 17:16:11,004 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:16:11,005 - VideoSplitter - INFO - Creating segment 5: start=289.00s, duration=73.00s
+2025-09-15 17:16:11,398 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:16:11,399 - VideoSplitter - INFO - Creating segment 6: start=362.00s, duration=72.00s
+2025-09-15 17:16:11,762 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:16:11,763 - VideoSplitter - INFO - Creating segment 7: start=434.00s, duration=71.00s
+2025-09-15 17:16:13,552 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:16:13,553 - VideoSplitter - INFO - Creating segment 8: start=505.00s, duration=73.00s
+2025-09-15 17:16:13,560 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:16:13,561 - VideoSplitter - INFO - Creating segment 8: start=507.00s, duration=71.00s
+2025-09-15 17:16:13,954 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:16:13,954 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:16:13,955 - VideoSplitter - INFO - Creating segment 9: start=578.00s, duration=72.00s
+2025-09-15 17:16:13,955 - VideoSplitter - INFO - Creating segment 9: start=578.00s, duration=72.00s
+2025-09-15 17:16:14,846 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:16:14,847 - VideoSplitter - INFO - Creating segment 10: start=650.00s, duration=73.00s
+2025-09-15 17:16:14,848 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:16:14,849 - VideoSplitter - INFO - Creating segment 10: start=650.00s, duration=72.00s
+2025-09-15 17:16:16,142 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:16:16,143 - VideoSplitter - INFO - Creating segment 11: start=722.00s, duration=73.00s
+2025-09-15 17:16:16,146 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:16:16,147 - VideoSplitter - INFO - Creating segment 11: start=723.00s, duration=73.00s
+2025-09-15 17:16:16,942 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:16:16,943 - VideoSplitter - INFO - Creating segment 12: start=795.00s, duration=72.00s
+2025-09-15 17:16:16,944 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:16:16,945 - VideoSplitter - INFO - Creating segment 12: start=796.00s, duration=72.00s
+2025-09-15 17:16:17,637 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:16:17,638 - VideoSplitter - INFO - Creating segment 13: start=867.00s, duration=74.00s
+2025-09-15 17:16:17,639 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:16:17,640 - VideoSplitter - INFO - Creating segment 13: start=868.00s, duration=72.00s
+2025-09-15 17:16:18,190 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:16:18,191 - VideoSplitter - INFO - Creating segment 14: start=940.00s, duration=72.00s
+2025-09-15 17:16:18,217 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:16:18,217 - VideoSplitter - INFO - Creating segment 14: start=941.00s, duration=74.00s
+2025-09-15 17:16:18,819 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:16:18,820 - VideoSplitter - INFO - Creating segment 15: start=1012.00s, duration=74.00s
+2025-09-15 17:16:18,834 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:16:18,835 - VideoSplitter - INFO - Creating segment 15: start=1015.00s, duration=72.00s
+2025-09-15 17:16:20,114 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:16:20,115 - VideoSplitter - INFO - Creating segment 16: start=1086.00s, duration=72.00s
+2025-09-15 17:16:20,119 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:16:20,120 - VideoSplitter - INFO - Creating segment 16: start=1087.00s, duration=72.00s
+2025-09-15 17:16:20,741 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:16:20,742 - VideoSplitter - INFO - Creating segment 17: start=1158.00s, duration=74.00s
+2025-09-15 17:16:20,746 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:16:20,747 - VideoSplitter - INFO - Creating segment 17: start=1159.00s, duration=71.00s
+2025-09-15 17:16:22,609 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:16:22,610 - VideoSplitter - INFO - Creating segment 18: start=1230.00s, duration=74.00s
+2025-09-15 17:16:22,615 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:16:22,616 - VideoSplitter - INFO - Creating segment 18: start=1232.00s, duration=73.00s
+2025-09-15 17:16:23,436 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:16:23,437 - VideoSplitter - INFO - Creating segment 19: start=1304.00s, duration=72.00s
+2025-09-15 17:16:23,439 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:16:23,440 - VideoSplitter - INFO - Creating segment 19: start=1305.00s, duration=72.00s
+2025-09-15 17:16:24,423 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:16:24,424 - VideoSplitter - INFO - Creating segment 20: start=1376.00s, duration=72.00s
+2025-09-15 17:16:24,426 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:16:24,427 - VideoSplitter - INFO - Creating segment 20: start=1377.00s, duration=72.00s
+2025-09-15 17:16:25,257 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:16:25,259 - VideoSplitter - INFO - Creating segment 21: start=1448.00s, duration=73.00s
+2025-09-15 17:16:25,261 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:16:25,262 - VideoSplitter - INFO - Creating segment 21: start=1449.00s, duration=72.00s
+2025-09-15 17:16:26,180 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:16:26,181 - VideoSplitter - INFO - Creating segment 22: start=1521.00s, duration=71.00s
+2025-09-15 17:16:26,181 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:16:26,182 - VideoSplitter - INFO - Creating segment 22: start=1521.00s, duration=72.00s
+2025-09-15 17:16:27,154 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:16:27,155 - VideoSplitter - INFO - Creating segment 23: start=1592.00s, duration=72.00s
+2025-09-15 17:16:27,157 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:16:27,158 - VideoSplitter - INFO - Creating segment 23: start=1593.00s, duration=71.00s
+2025-09-15 17:16:27,878 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:16:27,879 - VideoSplitter - INFO - Creating segment 24: start=1664.00s, duration=71.00s
+2025-09-15 17:16:27,882 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:16:27,882 - VideoSplitter - INFO - Creating segment 24: start=1664.00s, duration=71.00s
+2025-09-15 17:16:28,787 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:16:28,788 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:16:28,788 - VideoSplitter - INFO - Creating segment 25: start=1735.00s, duration=72.00s
+2025-09-15 17:16:28,788 - VideoSplitter - INFO - Creating segment 25: start=1735.00s, duration=72.00s
+2025-09-15 17:16:29,819 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:16:29,820 - VideoSplitter - INFO - Creating segment 26: start=1807.00s, duration=72.00s
+2025-09-15 17:16:29,821 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:16:29,822 - VideoSplitter - INFO - Creating segment 26: start=1807.00s, duration=71.00s
+2025-09-15 17:16:30,523 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:16:30,524 - VideoSplitter - INFO - Creating segment 27: start=1878.00s, duration=73.00s
+2025-09-15 17:16:30,524 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:16:30,526 - VideoSplitter - INFO - Creating segment 27: start=1879.00s, duration=72.00s
+2025-09-15 17:16:31,528 - VideoSplitter - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:16:31,529 - VideoSplitter - INFO - Creating segment 28: start=1951.00s, duration=74.00s
+2025-09-15 17:16:31,530 - VideoSplitter - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:16:31,531 - VideoSplitter - INFO - Creating segment 28: start=1951.00s, duration=72.00s
+2025-09-15 17:16:33,453 - VideoSplitter - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:16:33,454 - VideoSplitter - INFO - Creating segment 29: start=2023.00s, duration=73.00s
+2025-09-15 17:16:33,468 - VideoSplitter - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:16:33,469 - VideoSplitter - INFO - Creating segment 29: start=2025.00s, duration=71.00s
+2025-09-15 17:16:34,459 - VideoSplitter - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:16:34,460 - VideoSplitter - INFO - Creating segment 30: start=2096.00s, duration=72.00s
+2025-09-15 17:16:34,460 - VideoSplitter - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:16:34,461 - VideoSplitter - INFO - Creating segment 30: start=2096.00s, duration=71.00s
+2025-09-15 17:16:35,109 - VideoSplitter - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:16:35,110 - VideoSplitter - INFO - Creating segment 31: start=2167.00s, duration=73.00s
+2025-09-15 17:16:35,117 - VideoSplitter - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:16:35,117 - VideoSplitter - INFO - Creating segment 31: start=2168.00s, duration=72.00s
+2025-09-15 17:16:35,962 - VideoSplitter - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:16:35,963 - VideoSplitter - INFO - Creating segment 32: start=2240.00s, duration=73.00s
+2025-09-15 17:16:35,963 - VideoSplitter - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:16:35,965 - VideoSplitter - INFO - Creating segment 32: start=2240.00s, duration=73.00s
+2025-09-15 17:16:36,632 - VideoSplitter - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:16:36,633 - VideoSplitter - INFO - Creating segment 33: start=2313.00s, duration=71.00s
+2025-09-15 17:16:36,634 - VideoSplitter - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:16:36,635 - VideoSplitter - INFO - Creating segment 33: start=2313.00s, duration=74.00s
+2025-09-15 17:16:37,353 - VideoSplitter - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:16:37,354 - VideoSplitter - INFO - Creating segment 34: start=2384.00s, duration=74.00s
+2025-09-15 17:16:37,361 - VideoSplitter - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:16:37,362 - VideoSplitter - INFO - Creating segment 34: start=2387.00s, duration=71.00s
+2025-09-15 17:16:38,781 - VideoSplitter - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:16:38,782 - VideoSplitter - INFO - Creating segment 35: start=2458.00s, duration=74.00s
+2025-09-15 17:16:38,783 - VideoSplitter - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:16:38,784 - VideoSplitter - INFO - Creating segment 35: start=2458.00s, duration=71.00s
+2025-09-15 17:16:39,352 - VideoSplitter - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:16:39,353 - VideoSplitter - INFO - Creating segment 36: start=2529.00s, duration=73.00s
+2025-09-15 17:16:39,364 - VideoSplitter - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:16:39,365 - VideoSplitter - INFO - Creating segment 36: start=2532.00s, duration=130.16s
+2025-09-15 17:16:40,571 - VideoSplitter - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:16:40,572 - VideoSplitter - INFO - Creating segment 37: start=2602.00s, duration=60.16s
+2025-09-15 17:16:41,577 - VideoSplitter - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:16:41,578 - VideoSplitter - INFO - Successfully created 37 segments
+2025-09-15 17:16:41,580 - VideoSplitter - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:16:41,581 - VideoSplitter - INFO - Successfully created 36 segments
+2025-09-15 17:24:26,049 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:24:26,391 - VideoSplitter - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:24:26,391 - VideoSplitter - INFO - Will create 37 segments
+2025-09-15 17:24:26,392 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=72.00s
+2025-09-15 17:24:27,032 - VideoSplitter - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:24:27,033 - VideoSplitter - INFO - Creating segment 2: start=72.00s, duration=72.00s
+2025-09-15 17:24:27,423 - VideoSplitter - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:24:27,424 - VideoSplitter - INFO - Creating segment 3: start=144.00s, duration=71.00s
+2025-09-15 17:24:27,794 - VideoSplitter - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:24:27,795 - VideoSplitter - INFO - Creating segment 4: start=215.00s, duration=72.00s
+2025-09-15 17:24:28,302 - VideoSplitter - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:24:28,303 - VideoSplitter - INFO - Creating segment 5: start=287.00s, duration=74.00s
+2025-09-15 17:24:29,094 - VideoSplitter - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:24:29,095 - VideoSplitter - INFO - Creating segment 6: start=361.00s, duration=73.00s
+2025-09-15 17:24:29,724 - VideoSplitter - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:24:29,725 - VideoSplitter - INFO - Creating segment 7: start=434.00s, duration=72.00s
+2025-09-15 17:24:30,384 - VideoSplitter - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:24:30,385 - VideoSplitter - INFO - Creating segment 8: start=506.00s, duration=71.00s
+2025-09-15 17:24:31,723 - VideoSplitter - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:24:31,724 - VideoSplitter - INFO - Creating segment 9: start=577.00s, duration=74.00s
+2025-09-15 17:24:32,343 - VideoSplitter - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:24:32,344 - VideoSplitter - INFO - Creating segment 10: start=651.00s, duration=72.00s
+2025-09-15 17:24:33,204 - VideoSplitter - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:24:33,205 - VideoSplitter - INFO - Creating segment 11: start=723.00s, duration=74.00s
+2025-09-15 17:24:34,024 - VideoSplitter - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:24:34,024 - VideoSplitter - INFO - Creating segment 12: start=797.00s, duration=71.00s
+2025-09-15 17:24:34,463 - VideoSplitter - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:24:34,464 - VideoSplitter - INFO - Creating segment 13: start=868.00s, duration=71.00s
+2025-09-15 17:24:35,016 - VideoSplitter - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:24:35,017 - VideoSplitter - INFO - Creating segment 14: start=939.00s, duration=71.00s
+2025-09-15 17:24:35,890 - VideoSplitter - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:24:35,891 - VideoSplitter - INFO - Creating segment 15: start=1010.00s, duration=73.00s
+2025-09-15 17:24:37,533 - VideoSplitter - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:24:37,534 - VideoSplitter - INFO - Creating segment 16: start=1083.00s, duration=72.00s
+2025-09-15 17:24:37,926 - VideoSplitter - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:24:37,926 - VideoSplitter - INFO - Creating segment 17: start=1155.00s, duration=72.00s
+2025-09-15 17:24:39,087 - VideoSplitter - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:24:39,088 - VideoSplitter - INFO - Creating segment 18: start=1227.00s, duration=73.00s
+2025-09-15 17:24:39,814 - VideoSplitter - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:24:39,815 - VideoSplitter - INFO - Creating segment 19: start=1300.00s, duration=73.00s
+2025-09-15 17:24:40,454 - VideoSplitter - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:24:40,455 - VideoSplitter - INFO - Creating segment 20: start=1373.00s, duration=74.00s
+2025-09-15 17:24:41,120 - VideoSplitter - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:24:41,121 - VideoSplitter - INFO - Creating segment 21: start=1447.00s, duration=73.00s
+2025-09-15 17:24:41,966 - VideoSplitter - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:24:41,967 - VideoSplitter - INFO - Creating segment 22: start=1520.00s, duration=71.00s
+2025-09-15 17:24:43,334 - VideoSplitter - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:24:43,335 - VideoSplitter - INFO - Creating segment 23: start=1591.00s, duration=71.00s
+2025-09-15 17:24:44,357 - VideoSplitter - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:24:44,358 - VideoSplitter - INFO - Creating segment 24: start=1662.00s, duration=71.00s
+2025-09-15 17:24:44,827 - VideoSplitter - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:24:44,828 - VideoSplitter - INFO - Creating segment 25: start=1733.00s, duration=71.00s
+2025-09-15 17:24:45,661 - VideoSplitter - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:24:45,662 - VideoSplitter - INFO - Creating segment 26: start=1804.00s, duration=72.00s
+2025-09-15 17:24:46,767 - VideoSplitter - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:24:46,768 - VideoSplitter - INFO - Creating segment 27: start=1876.00s, duration=74.00s
+2025-09-15 17:24:48,563 - VideoSplitter - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:24:48,563 - VideoSplitter - INFO - Creating segment 28: start=1950.00s, duration=73.00s
+2025-09-15 17:24:49,814 - VideoSplitter - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:24:49,815 - VideoSplitter - INFO - Creating segment 29: start=2023.00s, duration=71.00s
+2025-09-15 17:24:50,444 - VideoSplitter - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:24:50,445 - VideoSplitter - INFO - Creating segment 30: start=2094.00s, duration=71.00s
+2025-09-15 17:24:51,669 - VideoSplitter - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:24:51,670 - VideoSplitter - INFO - Creating segment 31: start=2165.00s, duration=71.00s
+2025-09-15 17:24:52,042 - VideoSplitter - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:24:52,043 - VideoSplitter - INFO - Creating segment 32: start=2236.00s, duration=72.00s
+2025-09-15 17:24:52,749 - VideoSplitter - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:24:52,750 - VideoSplitter - INFO - Creating segment 33: start=2308.00s, duration=71.00s
+2025-09-15 17:24:53,355 - VideoSplitter - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:24:53,356 - VideoSplitter - INFO - Creating segment 34: start=2379.00s, duration=72.00s
+2025-09-15 17:24:54,586 - VideoSplitter - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:24:54,587 - VideoSplitter - INFO - Creating segment 35: start=2451.00s, duration=72.00s
+2025-09-15 17:24:55,336 - VideoSplitter - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:24:55,337 - VideoSplitter - INFO - Creating segment 36: start=2523.00s, duration=71.00s
+2025-09-15 17:24:56,377 - VideoSplitter - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:24:56,378 - VideoSplitter - INFO - Creating segment 37: start=2594.00s, duration=68.16s
+2025-09-15 17:24:57,254 - VideoSplitter - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:24:57,255 - VideoSplitter - INFO - Successfully created 37 segments
+2025-09-16 11:17:53,797 - VideoSplitter - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g.mp4
+2025-09-16 11:17:54,206 - VideoSplitter - INFO - Video duration: 1801.95 seconds
+2025-09-16 11:17:54,207 - VideoSplitter - INFO - Will create 26 segments
+2025-09-16 11:17:54,208 - VideoSplitter - INFO - Creating segment 1: start=0.00s, duration=72.00s
+2025-09-16 11:17:54,538 - VideoSplitter - INFO - Segment 1 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_01.mp4
+2025-09-16 11:17:54,539 - VideoSplitter - INFO - Creating segment 2: start=72.00s, duration=73.00s
+2025-09-16 11:17:54,728 - VideoSplitter - INFO - Segment 2 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_02.mp4
+2025-09-16 11:17:54,729 - VideoSplitter - INFO - Creating segment 3: start=145.00s, duration=73.00s
+2025-09-16 11:17:54,956 - VideoSplitter - INFO - Segment 3 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_03.mp4
+2025-09-16 11:17:54,957 - VideoSplitter - INFO - Creating segment 4: start=218.00s, duration=71.00s
+2025-09-16 11:17:55,146 - VideoSplitter - INFO - Segment 4 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_04.mp4
+2025-09-16 11:17:55,147 - VideoSplitter - INFO - Creating segment 5: start=289.00s, duration=71.00s
+2025-09-16 11:17:55,381 - VideoSplitter - INFO - Segment 5 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_05.mp4
+2025-09-16 11:17:55,382 - VideoSplitter - INFO - Creating segment 6: start=360.00s, duration=71.00s
+2025-09-16 11:17:55,903 - VideoSplitter - INFO - Segment 6 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_06.mp4
+2025-09-16 11:17:55,904 - VideoSplitter - INFO - Creating segment 7: start=431.00s, duration=71.00s
+2025-09-16 11:17:56,131 - VideoSplitter - INFO - Segment 7 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_07.mp4
+2025-09-16 11:17:56,132 - VideoSplitter - INFO - Creating segment 8: start=502.00s, duration=73.00s
+2025-09-16 11:17:56,355 - VideoSplitter - INFO - Segment 8 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_08.mp4
+2025-09-16 11:17:56,356 - VideoSplitter - INFO - Creating segment 9: start=575.00s, duration=73.00s
+2025-09-16 11:17:56,867 - VideoSplitter - INFO - Segment 9 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_09.mp4
+2025-09-16 11:17:56,868 - VideoSplitter - INFO - Creating segment 10: start=648.00s, duration=72.00s
+2025-09-16 11:17:57,108 - VideoSplitter - INFO - Segment 10 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_10.mp4
+2025-09-16 11:17:57,109 - VideoSplitter - INFO - Creating segment 11: start=720.00s, duration=73.00s
+2025-09-16 11:17:57,598 - VideoSplitter - INFO - Segment 11 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_11.mp4
+2025-09-16 11:17:57,599 - VideoSplitter - INFO - Creating segment 12: start=793.00s, duration=71.00s
+2025-09-16 11:17:58,258 - VideoSplitter - INFO - Segment 12 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_12.mp4
+2025-09-16 11:17:58,260 - VideoSplitter - INFO - Creating segment 13: start=864.00s, duration=71.00s
+2025-09-16 11:17:59,295 - VideoSplitter - INFO - Segment 13 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_13.mp4
+2025-09-16 11:17:59,296 - VideoSplitter - INFO - Creating segment 14: start=935.00s, duration=73.00s
+2025-09-16 11:17:59,567 - VideoSplitter - INFO - Segment 14 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_14.mp4
+2025-09-16 11:17:59,568 - VideoSplitter - INFO - Creating segment 15: start=1008.00s, duration=73.00s
+2025-09-16 11:18:00,352 - VideoSplitter - INFO - Segment 15 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_15.mp4
+2025-09-16 11:18:00,353 - VideoSplitter - INFO - Creating segment 16: start=1081.00s, duration=72.00s
+2025-09-16 11:18:01,046 - VideoSplitter - INFO - Segment 16 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_16.mp4
+2025-09-16 11:18:01,047 - VideoSplitter - INFO - Creating segment 17: start=1153.00s, duration=72.00s
+2025-09-16 11:18:01,874 - VideoSplitter - INFO - Segment 17 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_17.mp4
+2025-09-16 11:18:01,875 - VideoSplitter - INFO - Creating segment 18: start=1225.00s, duration=72.00s
+2025-09-16 11:18:02,494 - VideoSplitter - INFO - Segment 18 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_18.mp4
+2025-09-16 11:18:02,495 - VideoSplitter - INFO - Creating segment 19: start=1297.00s, duration=71.00s
+2025-09-16 11:18:03,154 - VideoSplitter - INFO - Segment 19 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_19.mp4
+2025-09-16 11:18:03,155 - VideoSplitter - INFO - Creating segment 20: start=1368.00s, duration=72.00s
+2025-09-16 11:18:03,736 - VideoSplitter - INFO - Segment 20 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_20.mp4
+2025-09-16 11:18:03,737 - VideoSplitter - INFO - Creating segment 21: start=1440.00s, duration=72.00s
+2025-09-16 11:18:04,451 - VideoSplitter - INFO - Segment 21 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_21.mp4
+2025-09-16 11:18:04,452 - VideoSplitter - INFO - Creating segment 22: start=1512.00s, duration=71.00s
+2025-09-16 11:18:05,213 - VideoSplitter - INFO - Segment 22 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_22.mp4
+2025-09-16 11:18:05,214 - VideoSplitter - INFO - Creating segment 23: start=1583.00s, duration=71.00s
+2025-09-16 11:18:05,816 - VideoSplitter - INFO - Segment 23 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_23.mp4
+2025-09-16 11:18:05,817 - VideoSplitter - INFO - Creating segment 24: start=1654.00s, duration=73.00s
+2025-09-16 11:18:07,366 - VideoSplitter - INFO - Segment 24 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_24.mp4
+2025-09-16 11:18:07,369 - VideoSplitter - INFO - Creating segment 25: start=1727.00s, duration=71.00s
+2025-09-16 11:18:07,972 - VideoSplitter - INFO - Segment 25 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_25.mp4
+2025-09-16 11:18:07,972 - VideoSplitter - INFO - Creating segment 26: start=1798.00s, duration=3.95s
+2025-09-16 11:18:08,165 - VideoSplitter - INFO - Segment 26 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_26.mp4
+2025-09-16 11:18:08,166 - VideoSplitter - INFO - Successfully created 26 segments

@@ -13,7 +13,7 @@ class Config:
     
     # ===== CẤU HÌNH ĐƯỜNG DẪN =====
     # Thư mục mặc định để lưu video
-    DEFAULT_DOWNLOAD_DIR = str(Path(__file__).parent / "downloads")
+    DEFAULT_DOWNLOAD_DIR = r'E:\tool-down-Youtube-and-cut\downloads'
     
     # Thư mục lưu log
     LOG_DIR = "logs"
@@ -21,21 +21,21 @@ class Config:
     
     # ===== CẤU HÌNH CẮT VIDEO =====
     # Thời gian cắt video (giây)
-    MIN_CUT_TIME = 115  # 1 phút 55 giây
-    MAX_CUT_TIME = 120  # 2 phút
+    MIN_CUT_TIME = 71
+    MAX_CUT_TIME = 73
     
     # Ngưỡng video ngắn (giây) - video ngắn hơn sẽ không bị cắt
-    SHORT_VIDEO_THRESHOLD = 70
+    SHORT_VIDEO_THRESHOLD = 0
     
     # Ngưỡng nối đoạn cuối (giây) - nếu đoạn cuối < ngưỡng này sẽ nối vào đoạn trước
-    MERGE_LAST_SEGMENT_THRESHOLD = 70
+    MERGE_LAST_SEGMENT_THRESHOLD = 59
     
     # Buffer time để tránh lỗi khi cắt (giây)
     CUT_BUFFER_TIME = 2.0
     
     # ===== CẤU HÌNH VIDEO SPLITTER =====
-    # Thời gian mỗi đoạn video (giây)
-    SEGMENT_DURATION = 90  # 1 phút 30 giây
+    # Thời gian mỗi đoạn video (giây) - không sử dụng nữa, dùng MIN_CUT_TIME/MAX_CUT_TIME
+    SEGMENT_DURATION = 90  # 1 phút 30 giây (deprecated)
     
     # Thời gian tối thiểu cho đoạn cuối
     MIN_LAST_SEGMENT_DURATION = 30
@@ -58,7 +58,7 @@ class Config:
 
     # ===== CẤU HÌNH CHẤT LƯỢNG VIDEO =====
     # Độ phân giải mặc định
-    DEFAULT_RESOLUTION = "1080p"
+    DEFAULT_RESOLUTION = '1080p'
     
     # Danh sách độ phân giải hỗ trợ
     SUPPORTED_RESOLUTIONS = ["1440p", "1080p", "720p"]

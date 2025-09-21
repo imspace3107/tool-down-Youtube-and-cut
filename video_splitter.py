@@ -11,7 +11,7 @@ class VideoSplitter:
     
     def __init__(self):
         self.output_path = Path(config.OUTPUT_PATH)
-        self.segment_duration = config.SEGMENT_DURATION  # 90 seconds (1m30s)
+        # Sử dụng MIN_CUT_TIME và MAX_CUT_TIME từ config thay vì SEGMENT_DURATION
         self.min_last_segment = config.MIN_LAST_SEGMENT_DURATION  # 30 seconds
         self.logger = self._setup_logger()
         
@@ -49,10 +49,10 @@ class VideoSplitter:
             return None
     
     def calculate_segments(self, duration):
-        """Calculate how to split the video into random segments (95-110 seconds)"""
-        min_segment = 95  # 1m35s
-        max_segment = 110  # 1m50s
-        min_last_segment = 70  # Minimum duration for last segment
+        """Calculate how to split the video into random segments using config values"""
+        min_segment = config.MIN_CUT_TIME  # Sử dụng giá trị từ config
+        max_segment = config.MAX_CUT_TIME  # Sử dụng giá trị từ config
+        min_last_segment = config.SHORT_VIDEO_THRESHOLD  # Minimum duration for last segment
         
         if duration <= max_segment:
             # Video is shorter than max segment duration, no splitting needed

@@ -257,3 +257,1356 @@ Tất cả file đã được lưu trong: D:\new_tool\downloads
 2025-09-09 14:55:04,825 - INFO - 8. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4 (19.5 MB)
 2025-09-09 14:55:04,826 - INFO - 
 Tất cả file đã được lưu trong: D:\new_tool\downloads
+2025-09-09 15:38:19,170 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:38:19,179 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:38:19,182 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-09 15:38:19,184 - INFO - Độ phân giải: 1080p
+2025-09-09 15:38:19,186 - INFO - Cắt video: 115-120s (ngắn: 70s)
+2025-09-09 15:38:19,188 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:38:19,188 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:38:19,192 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:38:19,192 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:38:25,525 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:38:25,525 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:38:25,527 - INFO - Thời lượng: 804 giây
+2025-09-09 15:38:25,528 - INFO - Thời lượng: 804 giây
+2025-09-09 15:38:25,529 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:38:25,530 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:38:25,531 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:38:30,552 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:38:30,552 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:38:30,554 - INFO - Chi tiết format: ID=299+140, Resolution=1920x1080, VBR=2935.309kbps, Codec=avc1.64002a
+2025-09-09 15:38:35,534 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:38:35,535 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:38:35,540 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:38:36,461 - INFO - Video duration: 804.03 seconds
+2025-09-09 15:38:36,461 - INFO - Will create 8 segments
+2025-09-09 15:38:36,462 - INFO - Creating segment 1: start=0.00s, duration=97.00s
+2025-09-09 15:38:37,334 - INFO - Segment 1 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4
+2025-09-09 15:38:37,334 - INFO - Creating segment 2: start=97.00s, duration=108.00s
+2025-09-09 15:38:37,730 - INFO - Segment 2 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4
+2025-09-09 15:38:37,731 - INFO - Creating segment 3: start=205.00s, duration=105.00s
+2025-09-09 15:38:38,578 - INFO - Segment 3 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4
+2025-09-09 15:38:38,579 - INFO - Creating segment 4: start=310.00s, duration=101.00s
+2025-09-09 15:38:39,338 - INFO - Segment 4 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4
+2025-09-09 15:38:39,339 - INFO - Creating segment 5: start=411.00s, duration=107.00s
+2025-09-09 15:38:40,488 - INFO - Segment 5 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4
+2025-09-09 15:38:40,488 - INFO - Creating segment 6: start=518.00s, duration=105.00s
+2025-09-09 15:38:41,766 - INFO - Segment 6 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4
+2025-09-09 15:38:41,767 - INFO - Creating segment 7: start=623.00s, duration=99.00s
+2025-09-09 15:38:42,833 - INFO - Segment 7 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4
+2025-09-09 15:38:42,834 - INFO - Creating segment 8: start=722.00s, duration=82.03s
+2025-09-09 15:38:43,891 - INFO - Segment 8 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4
+2025-09-09 15:38:43,892 - INFO - Successfully created 8 segments
+2025-09-09 15:38:43,892 - INFO - Đã cắt thành 8 đoạn
+2025-09-09 15:38:43,893 - INFO - Đã cắt thành 8 đoạn
+2025-09-09 15:38:43,898 - INFO - Đã cắt thành 8 đoạn video
+2025-09-09 15:38:43,898 - INFO - Đã cắt thành 8 đoạn video
+2025-09-09 15:38:43,907 - INFO - 
+=== Đã xử lý 8 video ===
+2025-09-09 15:38:43,908 - INFO - 
+=== Đã xử lý 8 video ===
+2025-09-09 15:38:43,912 - INFO - 
+=== KẾT QUẢ ===
+2025-09-09 15:38:43,913 - INFO - Đã xử lý thành công: 8 video
+2025-09-09 15:38:43,915 - INFO - 1. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4 (39.2 MB)
+2025-09-09 15:38:43,917 - INFO - 2. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4 (26.1 MB)
+2025-09-09 15:38:43,918 - INFO - 3. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4 (32.3 MB)
+2025-09-09 15:38:43,919 - INFO - 4. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4 (34.0 MB)
+2025-09-09 15:38:43,920 - INFO - 5. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4 (47.4 MB)
+2025-09-09 15:38:43,922 - INFO - 6. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4 (54.3 MB)
+2025-09-09 15:38:43,923 - INFO - 7. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4 (41.0 MB)
+2025-09-09 15:38:43,924 - INFO - 8. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4 (24.6 MB)
+2025-09-09 15:38:43,925 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-09 15:39:17,264 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:39:17,273 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:39:17,277 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-09 15:39:17,280 - INFO - Độ phân giải: 1080p
+2025-09-09 15:39:17,283 - INFO - Cắt video: 115-120s (ngắn: 70s)
+2025-09-09 15:39:17,287 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:39:17,287 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:39:17,291 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:39:17,291 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:39:22,301 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:39:22,302 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:39:22,306 - INFO - Thời lượng: 804 giây
+2025-09-09 15:39:22,307 - INFO - Thời lượng: 804 giây
+2025-09-09 15:39:22,311 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:39:22,311 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:39:22,315 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:39:28,192 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:39:28,192 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:39:28,207 - INFO - Chi tiết format: ID=299+140, Resolution=1920x1080, VBR=2935.309kbps, Codec=avc1.64002a
+2025-09-09 15:39:39,243 - INFO - Không tìm thấy file đã tải
+2025-09-09 15:39:39,243 - INFO - Không tìm thấy file đã tải
+2025-09-09 15:39:39,252 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-09 15:39:39,252 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-09 15:39:39,259 - INFO - 
+=== KẾT QUẢ ===
+2025-09-09 15:39:39,263 - INFO - Đã xử lý thành công: 0 video
+2025-09-09 15:40:21,298 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:40:21,306 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:40:21,308 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-09 15:40:21,311 - INFO - Độ phân giải: 1080p
+2025-09-09 15:40:21,314 - INFO - Cắt video: 115-120s (ngắn: 70s)
+2025-09-09 15:40:21,317 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:40:21,317 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:40:21,322 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:40:21,322 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:40:26,981 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:40:26,982 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:40:26,984 - INFO - Thời lượng: 804 giây
+2025-09-09 15:40:26,984 - INFO - Thời lượng: 804 giây
+2025-09-09 15:40:26,986 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:40:26,987 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:40:26,988 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:40:31,815 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:40:31,816 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:40:31,818 - INFO - Chi tiết format: ID=299+140, Resolution=1920x1080, VBR=2935.309kbps, Codec=avc1.64002a
+2025-09-09 15:40:41,968 - INFO - Không tìm thấy file đã tải
+2025-09-09 15:40:41,969 - INFO - Không tìm thấy file đã tải
+2025-09-09 15:40:41,972 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-09 15:40:41,972 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-09 15:40:41,974 - INFO - 
+=== KẾT QUẢ ===
+2025-09-09 15:40:41,976 - INFO - Đã xử lý thành công: 0 video
+2025-09-09 15:44:02,089 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:44:02,197 - INFO - Bắt đầu tải 1 video(s)
+2025-09-09 15:44:02,204 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-09 15:44:02,208 - INFO - Độ phân giải: 1080p
+2025-09-09 15:44:02,214 - INFO - Cắt video: 115-120s (ngắn: 70s)
+2025-09-09 15:44:02,220 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:44:02,220 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-09 15:44:02,228 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:44:02,229 - INFO - Đang tải video: https://www.youtube.com/watch?v=N58jAeo1zXQ
+2025-09-09 15:44:09,161 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:44:09,161 - INFO - Tiêu đề: ¡EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES! Roblox
+2025-09-09 15:44:09,165 - INFO - Thời lượng: 804 giây
+2025-09-09 15:44:09,165 - INFO - Thời lượng: 804 giây
+2025-09-09 15:44:09,169 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:44:09,169 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:44:09,173 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-09 15:44:13,906 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:44:13,907 - INFO - Format được chọn: 299+140 - 1920x1080 - 2935.309kbps - avc1.64002a
+2025-09-09 15:44:13,912 - INFO - Chi tiết format: ID=299+140, Resolution=1920x1080, VBR=2935.309kbps, Codec=avc1.64002a
+2025-09-09 15:45:06,062 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:45:06,062 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:45:06,071 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ.mp4
+2025-09-09 15:45:06,233 - INFO - Video duration: 804.03 seconds
+2025-09-09 15:45:06,234 - INFO - Will create 8 segments
+2025-09-09 15:45:06,235 - INFO - Creating segment 1: start=0.00s, duration=96.00s
+2025-09-09 15:45:06,698 - INFO - Segment 1 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4
+2025-09-09 15:45:06,699 - INFO - Creating segment 2: start=96.00s, duration=99.00s
+2025-09-09 15:45:07,010 - INFO - Segment 2 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4
+2025-09-09 15:45:07,011 - INFO - Creating segment 3: start=195.00s, duration=101.00s
+2025-09-09 15:45:07,257 - INFO - Segment 3 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4
+2025-09-09 15:45:07,257 - INFO - Creating segment 4: start=296.00s, duration=104.00s
+2025-09-09 15:45:07,750 - INFO - Segment 4 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4
+2025-09-09 15:45:07,751 - INFO - Creating segment 5: start=400.00s, duration=95.00s
+2025-09-09 15:45:09,452 - INFO - Segment 5 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4
+2025-09-09 15:45:09,470 - INFO - Creating segment 6: start=495.00s, duration=96.00s
+2025-09-09 15:45:10,386 - INFO - Segment 6 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4
+2025-09-09 15:45:10,387 - INFO - Creating segment 7: start=591.00s, duration=104.00s
+2025-09-09 15:45:11,494 - INFO - Segment 7 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4
+2025-09-09 15:45:11,495 - INFO - Creating segment 8: start=695.00s, duration=109.03s
+2025-09-09 15:45:12,800 - INFO - Segment 8 created successfully: EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4
+2025-09-09 15:45:12,800 - INFO - Successfully created 8 segments
+2025-09-09 15:45:12,801 - INFO - Đã cắt thành 8 đoạn
+2025-09-09 15:45:12,801 - INFO - Đã cắt thành 8 đoạn
+2025-09-09 15:45:12,808 - INFO - Đã cắt thành 8 đoạn video
+2025-09-09 15:45:12,809 - INFO - Đã cắt thành 8 đoạn video
+2025-09-09 15:45:12,817 - INFO - 
+=== Đã xử lý 8 video ===
+2025-09-09 15:45:12,818 - INFO - 
+=== Đã xử lý 8 video ===
+2025-09-09 15:45:12,825 - INFO - 
+=== KẾT QUẢ ===
+2025-09-09 15:45:12,828 - INFO - Đã xử lý thành công: 8 video
+2025-09-09 15:45:12,831 - INFO - 1. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_01.mp4 (38.9 MB)
+2025-09-09 15:45:12,835 - INFO - 2. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_02.mp4 (23.8 MB)
+2025-09-09 15:45:12,837 - INFO - 3. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_03.mp4 (32.6 MB)
+2025-09-09 15:45:12,841 - INFO - 4. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_04.mp4 (32.4 MB)
+2025-09-09 15:45:12,843 - INFO - 5. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_05.mp4 (41.9 MB)
+2025-09-09 15:45:12,845 - INFO - 6. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_06.mp4 (50.0 MB)
+2025-09-09 15:45:12,848 - INFO - 7. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_07.mp4 (42.6 MB)
+2025-09-09 15:45:12,851 - INFO - 8. EL MEJOR JUEGO DEL CALAMAR 2 QUE NO CONOCES Roblox_N58jAeo1zXQ_08.mp4 (37.4 MB)
+2025-09-09 15:45:12,853 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-10 17:54:48,320 - INFO - Bắt đầu tải 1 video(s)
+2025-09-10 17:54:48,715 - INFO - Bắt đầu tải 1 video(s)
+2025-09-10 17:54:48,735 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-10 17:54:48,743 - INFO - Độ phân giải: 1080p
+2025-09-10 17:54:48,754 - INFO - Cắt video: 115-120s (ngắn: 70s)
+2025-09-10 17:54:48,764 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-10 17:54:48,764 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-10 17:54:48,785 - INFO - Đang tải video: https://www.youtube.com/watch?v=WJZ6z0zl7Ig
+2025-09-10 17:54:48,787 - INFO - Đang tải video: https://www.youtube.com/watch?v=WJZ6z0zl7Ig
+2025-09-10 17:54:59,849 - INFO - Tiêu đề: ¡Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Roblox!
+2025-09-10 17:54:59,850 - INFO - Tiêu đề: ¡Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Roblox!
+2025-09-10 17:54:59,855 - INFO - Thời lượng: 2411 giây
+2025-09-10 17:54:59,856 - INFO - Thời lượng: 2411 giây
+2025-09-10 17:54:59,860 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-10 17:54:59,861 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-10 17:54:59,866 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-10 17:55:06,865 - INFO - Format được chọn: 299+140 - 1920x1080 - 4289.643kbps - avc1.64002a
+2025-09-10 17:55:06,866 - INFO - Format được chọn: 299+140 - 1920x1080 - 4289.643kbps - avc1.64002a
+2025-09-10 17:55:06,871 - INFO - Chi tiết format: ID=299+140, Resolution=1920x1080, VBR=4289.643kbps, Codec=avc1.64002a
+2025-09-10 18:02:34,903 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig.mp4
+2025-09-10 18:02:34,903 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig.mp4
+2025-09-10 18:02:34,917 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig.mp4
+2025-09-10 18:02:37,271 - INFO - Video duration: 2410.95 seconds
+2025-09-10 18:02:37,272 - INFO - Will create 23 segments
+2025-09-10 18:02:37,273 - INFO - Creating segment 1: start=0.00s, duration=109.00s
+2025-09-10 18:02:40,234 - INFO - Segment 1 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_01.mp4
+2025-09-10 18:02:40,235 - INFO - Creating segment 2: start=109.00s, duration=97.00s
+2025-09-10 18:02:41,529 - INFO - Segment 2 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_02.mp4
+2025-09-10 18:02:41,530 - INFO - Creating segment 3: start=206.00s, duration=106.00s
+2025-09-10 18:02:43,466 - INFO - Segment 3 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_03.mp4
+2025-09-10 18:02:43,467 - INFO - Creating segment 4: start=312.00s, duration=97.00s
+2025-09-10 18:02:44,780 - INFO - Segment 4 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_04.mp4
+2025-09-10 18:02:44,781 - INFO - Creating segment 5: start=409.00s, duration=95.00s
+2025-09-10 18:02:46,760 - INFO - Segment 5 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_05.mp4
+2025-09-10 18:02:46,762 - INFO - Creating segment 6: start=504.00s, duration=103.00s
+2025-09-10 18:02:48,104 - INFO - Segment 6 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_06.mp4
+2025-09-10 18:02:48,106 - INFO - Creating segment 7: start=607.00s, duration=105.00s
+2025-09-10 18:02:49,465 - INFO - Segment 7 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_07.mp4
+2025-09-10 18:02:49,467 - INFO - Creating segment 8: start=712.00s, duration=109.00s
+2025-09-10 18:02:51,706 - INFO - Segment 8 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_08.mp4
+2025-09-10 18:02:51,708 - INFO - Creating segment 9: start=821.00s, duration=95.00s
+2025-09-10 18:02:53,440 - INFO - Segment 9 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_09.mp4
+2025-09-10 18:02:53,442 - INFO - Creating segment 10: start=916.00s, duration=101.00s
+2025-09-10 18:02:54,923 - INFO - Segment 10 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_10.mp4
+2025-09-10 18:02:54,924 - INFO - Creating segment 11: start=1017.00s, duration=110.00s
+2025-09-10 18:02:56,774 - INFO - Segment 11 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_11.mp4
+2025-09-10 18:02:56,775 - INFO - Creating segment 12: start=1127.00s, duration=104.00s
+2025-09-10 18:02:58,661 - INFO - Segment 12 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_12.mp4
+2025-09-10 18:02:58,663 - INFO - Creating segment 13: start=1231.00s, duration=100.00s
+2025-09-10 18:03:00,513 - INFO - Segment 13 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_13.mp4
+2025-09-10 18:03:00,515 - INFO - Creating segment 14: start=1331.00s, duration=100.00s
+2025-09-10 18:03:02,528 - INFO - Segment 14 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_14.mp4
+2025-09-10 18:03:02,529 - INFO - Creating segment 15: start=1431.00s, duration=107.00s
+2025-09-10 18:03:04,104 - INFO - Segment 15 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_15.mp4
+2025-09-10 18:03:04,105 - INFO - Creating segment 16: start=1538.00s, duration=109.00s
+2025-09-10 18:03:05,788 - INFO - Segment 16 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_16.mp4
+2025-09-10 18:03:05,789 - INFO - Creating segment 17: start=1647.00s, duration=108.00s
+2025-09-10 18:03:07,954 - INFO - Segment 17 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_17.mp4
+2025-09-10 18:03:07,955 - INFO - Creating segment 18: start=1755.00s, duration=102.00s
+2025-09-10 18:03:10,025 - INFO - Segment 18 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_18.mp4
+2025-09-10 18:03:10,026 - INFO - Creating segment 19: start=1857.00s, duration=97.00s
+2025-09-10 18:03:11,710 - INFO - Segment 19 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_19.mp4
+2025-09-10 18:03:11,712 - INFO - Creating segment 20: start=1954.00s, duration=99.00s
+2025-09-10 18:03:13,051 - INFO - Segment 20 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_20.mp4
+2025-09-10 18:03:13,053 - INFO - Creating segment 21: start=2053.00s, duration=98.00s
+2025-09-10 18:03:14,365 - INFO - Segment 21 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_21.mp4
+2025-09-10 18:03:14,367 - INFO - Creating segment 22: start=2151.00s, duration=107.00s
+2025-09-10 18:03:15,644 - INFO - Segment 22 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_22.mp4
+2025-09-10 18:03:15,645 - INFO - Creating segment 23: start=2258.00s, duration=152.95s
+2025-09-10 18:03:17,160 - INFO - Segment 23 created successfully: Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_23.mp4
+2025-09-10 18:03:17,161 - INFO - Successfully created 23 segments
+2025-09-10 18:03:17,162 - INFO - Đã cắt thành 23 đoạn
+2025-09-10 18:03:17,162 - INFO - Đã cắt thành 23 đoạn
+2025-09-10 18:03:17,172 - INFO - Đã cắt thành 23 đoạn video
+2025-09-10 18:03:17,172 - INFO - Đã cắt thành 23 đoạn video
+2025-09-10 18:03:17,182 - INFO - 
+=== Đã xử lý 23 video ===
+2025-09-10 18:03:17,183 - INFO - 
+=== Đã xử lý 23 video ===
+2025-09-10 18:03:17,196 - INFO - 
+=== KẾT QUẢ ===
+2025-09-10 18:03:17,203 - INFO - Đã xử lý thành công: 23 video
+2025-09-10 18:03:17,209 - INFO - 1. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_01.mp4 (41.4 MB)
+2025-09-10 18:03:17,214 - INFO - 2. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_02.mp4 (54.6 MB)
+2025-09-10 18:03:17,219 - INFO - 3. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_03.mp4 (64.5 MB)
+2025-09-10 18:03:17,225 - INFO - 4. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_04.mp4 (54.7 MB)
+2025-09-10 18:03:17,229 - INFO - 5. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_05.mp4 (56.3 MB)
+2025-09-10 18:03:17,235 - INFO - 6. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_06.mp4 (53.9 MB)
+2025-09-10 18:03:17,240 - INFO - 7. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_07.mp4 (58.2 MB)
+2025-09-10 18:03:17,244 - INFO - 8. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_08.mp4 (66.4 MB)
+2025-09-10 18:03:17,248 - INFO - 9. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_09.mp4 (46.9 MB)
+2025-09-10 18:03:17,253 - INFO - 10. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_10.mp4 (58.1 MB)
+2025-09-10 18:03:17,258 - INFO - 11. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_11.mp4 (69.9 MB)
+2025-09-10 18:03:17,261 - INFO - 12. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_12.mp4 (64.8 MB)
+2025-09-10 18:03:17,265 - INFO - 13. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_13.mp4 (63.4 MB)
+2025-09-10 18:03:17,269 - INFO - 14. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_14.mp4 (58.6 MB)
+2025-09-10 18:03:17,274 - INFO - 15. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_15.mp4 (55.8 MB)
+2025-09-10 18:03:17,278 - INFO - 16. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_16.mp4 (58.1 MB)
+2025-09-10 18:03:17,281 - INFO - 17. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_17.mp4 (62.7 MB)
+2025-09-10 18:03:17,286 - INFO - 18. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_18.mp4 (59.2 MB)
+2025-09-10 18:03:17,290 - INFO - 19. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_19.mp4 (62.8 MB)
+2025-09-10 18:03:17,294 - INFO - 20. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_20.mp4 (41.1 MB)
+2025-09-10 18:03:17,298 - INFO - 21. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_21.mp4 (39.6 MB)
+2025-09-10 18:03:17,303 - INFO - 22. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_22.mp4 (48.9 MB)
+2025-09-10 18:03:17,308 - INFO - 23. Sobrevivo y ESCAPO de 99 NOCHES en el Bosque de Ro_WJZ6z0zl7Ig_23.mp4 (58.0 MB)
+2025-09-10 18:03:17,311 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 16:43:32,682 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 16:43:33,063 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 16:43:33,071 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 16:43:33,075 - INFO - Độ phân giải: 1080p
+2025-09-15 16:43:33,078 - INFO - Cắt video: 74-72s (ngắn: 0s)
+2025-09-15 16:43:33,080 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 16:43:33,080 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 16:43:33,086 - INFO - Đang tải video: https://www.youtube.com/watch?v=xGaoqDZRJjM
+2025-09-15 16:43:33,086 - INFO - Đang tải video: https://www.youtube.com/watch?v=xGaoqDZRJjM
+2025-09-15 16:43:42,510 - INFO - Tiêu đề: VINGROUP VÀ 68 VỤ KIỆN: CUỘC CHIẾN CHỐNG TIN GIẢ HAY GIỚI HẠN TỰ DO?
+2025-09-15 16:43:42,510 - INFO - Tiêu đề: VINGROUP VÀ 68 VỤ KIỆN: CUỘC CHIẾN CHỐNG TIN GIẢ HAY GIỚI HẠN TỰ DO?
+2025-09-15 16:43:42,642 - INFO - Thời lượng: 882 giây
+2025-09-15 16:43:42,642 - INFO - Thời lượng: 882 giây
+2025-09-15 16:43:42,671 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:43:42,671 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:43:42,682 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:43:48,186 - INFO - Format được chọn: 137+140-drc - 1920x1080 - 1777.204kbps - avc1.640028
+2025-09-15 16:43:48,187 - INFO - Format được chọn: 137+140-drc - 1920x1080 - 1777.204kbps - avc1.640028
+2025-09-15 16:43:48,191 - INFO - Chi tiết format: ID=137+140-drc, Resolution=1920x1080, VBR=1777.204kbps, Codec=avc1.640028
+2025-09-15 16:44:23,611 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM.mp4
+2025-09-15 16:44:23,611 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM.mp4
+2025-09-15 16:44:23,620 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM.mp4
+2025-09-15 16:44:24,523 - INFO - Video duration: 882.40 seconds
+2025-09-15 16:44:24,524 - INFO - Will create 8 segments
+2025-09-15 16:44:24,524 - INFO - Creating segment 1: start=0.00s, duration=109.00s
+2025-09-15 16:44:24,880 - INFO - Segment 1 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_01.mp4
+2025-09-15 16:44:24,881 - INFO - Creating segment 2: start=109.00s, duration=100.00s
+2025-09-15 16:44:25,065 - INFO - Segment 2 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_02.mp4
+2025-09-15 16:44:25,066 - INFO - Creating segment 3: start=209.00s, duration=103.00s
+2025-09-15 16:44:25,257 - INFO - Segment 3 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_03.mp4
+2025-09-15 16:44:25,258 - INFO - Creating segment 4: start=312.00s, duration=108.00s
+2025-09-15 16:44:25,472 - INFO - Segment 4 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_04.mp4
+2025-09-15 16:44:25,780 - INFO - Creating segment 5: start=420.00s, duration=103.00s
+2025-09-15 16:44:26,088 - INFO - Segment 5 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_05.mp4
+2025-09-15 16:44:26,088 - INFO - Creating segment 6: start=523.00s, duration=109.00s
+2025-09-15 16:44:26,337 - INFO - Segment 6 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_06.mp4
+2025-09-15 16:44:26,338 - INFO - Creating segment 7: start=632.00s, duration=100.00s
+2025-09-15 16:44:26,494 - INFO - Segment 7 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_07.mp4
+2025-09-15 16:44:26,495 - INFO - Creating segment 8: start=732.00s, duration=150.40s
+2025-09-15 16:44:26,833 - INFO - Segment 8 created successfully: VINGROUP VÀ 68 VỤ KIỆN CUỘC CHIẾN CHỐNG TIN GIẢ HA_xGaoqDZRJjM_08.mp4
+2025-09-15 16:44:26,834 - INFO - Successfully created 8 segments
+2025-09-15 16:44:26,834 - INFO - Đã cắt thành 8 đoạn
+2025-09-15 16:44:26,835 - INFO - Đã cắt thành 8 đoạn
+2025-09-15 16:46:45,855 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 16:46:46,219 - INFO - Lỗi: expected floating-point number but got ""
+2025-09-15 16:46:56,065 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 16:46:56,072 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 16:46:56,076 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 16:46:56,080 - INFO - Độ phân giải: 1080p
+2025-09-15 16:46:56,084 - INFO - Cắt video: 72-74s (ngắn: 0s)
+2025-09-15 16:46:56,090 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 16:46:56,090 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 16:46:56,098 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 16:46:56,098 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 16:47:02,868 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 16:47:02,868 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 16:47:02,872 - INFO - Thời lượng: 2662 giây
+2025-09-15 16:47:02,872 - INFO - Thời lượng: 2662 giây
+2025-09-15 16:47:02,874 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:47:02,874 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:47:02,876 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 16:47:08,467 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 16:47:08,467 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 16:47:08,469 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 16:54:23,143 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 16:54:23,144 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 16:54:23,183 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 16:54:24,100 - INFO - Video duration: 2662.16 seconds
+2025-09-15 16:54:24,101 - INFO - Will create 26 segments
+2025-09-15 16:54:24,102 - INFO - Creating segment 1: start=0.00s, duration=106.00s
+2025-09-15 16:54:24,976 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 16:54:24,977 - INFO - Creating segment 2: start=106.00s, duration=108.00s
+2025-09-15 16:54:25,284 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 16:54:25,285 - INFO - Creating segment 3: start=214.00s, duration=96.00s
+2025-09-15 16:54:25,545 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 16:54:25,545 - INFO - Creating segment 4: start=310.00s, duration=102.00s
+2025-09-15 16:54:25,817 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 16:54:25,818 - INFO - Creating segment 5: start=412.00s, duration=101.00s
+2025-09-15 16:54:26,108 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 16:54:26,109 - INFO - Creating segment 6: start=513.00s, duration=95.00s
+2025-09-15 16:54:26,924 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 16:54:26,924 - INFO - Creating segment 7: start=608.00s, duration=99.00s
+2025-09-15 16:54:27,436 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 16:54:27,437 - INFO - Creating segment 8: start=707.00s, duration=108.00s
+2025-09-15 16:54:27,723 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 16:54:27,724 - INFO - Creating segment 9: start=815.00s, duration=98.00s
+2025-09-15 16:54:28,357 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 16:54:28,505 - INFO - Creating segment 10: start=913.00s, duration=98.00s
+2025-09-15 16:54:28,770 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 16:54:28,771 - INFO - Creating segment 11: start=1011.00s, duration=95.00s
+2025-09-15 16:54:30,113 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 16:54:30,114 - INFO - Creating segment 12: start=1106.00s, duration=95.00s
+2025-09-15 16:54:30,813 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 16:54:30,814 - INFO - Creating segment 13: start=1201.00s, duration=106.00s
+2025-09-15 16:54:31,364 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 16:54:31,365 - INFO - Creating segment 14: start=1307.00s, duration=95.00s
+2025-09-15 16:54:32,599 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 16:54:32,600 - INFO - Creating segment 15: start=1402.00s, duration=97.00s
+2025-09-15 16:54:33,785 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 16:54:33,786 - INFO - Creating segment 16: start=1499.00s, duration=108.00s
+2025-09-15 16:54:34,382 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 16:54:34,383 - INFO - Creating segment 17: start=1607.00s, duration=105.00s
+2025-09-15 16:54:35,941 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 16:54:35,942 - INFO - Creating segment 18: start=1712.00s, duration=108.00s
+2025-09-15 16:54:36,569 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 16:54:36,570 - INFO - Creating segment 19: start=1820.00s, duration=96.00s
+2025-09-15 16:54:37,879 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 16:54:37,879 - INFO - Creating segment 20: start=1916.00s, duration=95.00s
+2025-09-15 16:54:39,487 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 16:54:39,488 - INFO - Creating segment 21: start=2011.00s, duration=107.00s
+2025-09-15 16:54:41,242 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 16:54:41,243 - INFO - Creating segment 22: start=2118.00s, duration=104.00s
+2025-09-15 16:54:42,532 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 16:54:42,533 - INFO - Creating segment 23: start=2222.00s, duration=107.00s
+2025-09-15 16:54:43,610 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 16:54:43,611 - INFO - Creating segment 24: start=2329.00s, duration=97.00s
+2025-09-15 16:54:44,219 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 16:54:44,220 - INFO - Creating segment 25: start=2426.00s, duration=95.00s
+2025-09-15 16:54:45,744 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 16:54:45,745 - INFO - Creating segment 26: start=2521.00s, duration=141.16s
+2025-09-15 16:54:47,554 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 16:54:47,554 - INFO - Successfully created 26 segments
+2025-09-15 16:54:47,555 - INFO - Đã cắt thành 26 đoạn
+2025-09-15 16:54:47,555 - INFO - Đã cắt thành 26 đoạn
+2025-09-15 16:54:47,559 - INFO - Đã cắt thành 26 đoạn video
+2025-09-15 16:54:47,559 - INFO - Đã cắt thành 26 đoạn video
+2025-09-15 16:54:47,568 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-15 16:54:47,568 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-15 16:54:47,572 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 16:54:47,574 - INFO - Đã xử lý thành công: 26 video
+2025-09-15 16:54:47,576 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (36.9 MB)
+2025-09-15 16:54:47,577 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (40.2 MB)
+2025-09-15 16:54:47,579 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (38.2 MB)
+2025-09-15 16:54:47,581 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (33.5 MB)
+2025-09-15 16:54:47,583 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (42.1 MB)
+2025-09-15 16:54:47,586 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (37.8 MB)
+2025-09-15 16:54:47,587 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (37.4 MB)
+2025-09-15 16:54:47,589 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (36.3 MB)
+2025-09-15 16:54:47,592 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (26.7 MB)
+2025-09-15 16:54:47,593 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (28.1 MB)
+2025-09-15 16:54:47,595 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (47.0 MB)
+2025-09-15 16:54:47,598 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (34.9 MB)
+2025-09-15 16:54:47,600 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (43.1 MB)
+2025-09-15 16:54:47,602 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (27.4 MB)
+2025-09-15 16:54:47,604 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (33.5 MB)
+2025-09-15 16:54:47,605 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (38.1 MB)
+2025-09-15 16:54:47,607 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (37.2 MB)
+2025-09-15 16:54:47,608 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (51.9 MB)
+2025-09-15 16:54:47,610 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (39.1 MB)
+2025-09-15 16:54:47,612 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (46.9 MB)
+2025-09-15 16:54:47,614 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (39.8 MB)
+2025-09-15 16:54:47,617 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (40.8 MB)
+2025-09-15 16:54:47,619 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (35.9 MB)
+2025-09-15 16:54:47,621 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (26.8 MB)
+2025-09-15 16:54:47,623 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (30.8 MB)
+2025-09-15 16:54:47,624 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (55.0 MB)
+2025-09-15 16:54:47,626 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:01:28,035 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:01:28,135 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:01:28,143 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:01:28,147 - INFO - Độ phân giải: 1080p
+2025-09-15 17:01:28,151 - INFO - Cắt video: 71-74s (ngắn: 59s)
+2025-09-15 17:01:28,155 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:01:28,156 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:01:28,164 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:01:28,164 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:01:39,077 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:01:39,078 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:01:39,082 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:01:39,082 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:01:39,088 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:01:39,088 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:01:39,093 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:01:47,372 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:01:47,373 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:01:47,377 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 17:04:56,178 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:04:56,179 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:04:56,187 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:04:57,141 - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:04:57,141 - INFO - Will create 26 segments
+2025-09-15 17:04:57,142 - INFO - Creating segment 1: start=0.00s, duration=95.00s
+2025-09-15 17:04:58,308 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:04:58,309 - INFO - Creating segment 2: start=95.00s, duration=102.00s
+2025-09-15 17:04:58,621 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:04:58,622 - INFO - Creating segment 3: start=197.00s, duration=108.00s
+2025-09-15 17:04:59,239 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:04:59,240 - INFO - Creating segment 4: start=305.00s, duration=101.00s
+2025-09-15 17:04:59,983 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:04:59,984 - INFO - Creating segment 5: start=406.00s, duration=99.00s
+2025-09-15 17:05:01,123 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:05:01,124 - INFO - Creating segment 6: start=505.00s, duration=110.00s
+2025-09-15 17:05:02,251 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:05:02,252 - INFO - Creating segment 7: start=615.00s, duration=103.00s
+2025-09-15 17:05:03,234 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:05:03,234 - INFO - Creating segment 8: start=718.00s, duration=104.00s
+2025-09-15 17:05:04,514 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:05:04,515 - INFO - Creating segment 9: start=822.00s, duration=98.00s
+2025-09-15 17:05:05,159 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:05:05,160 - INFO - Creating segment 10: start=920.00s, duration=97.00s
+2025-09-15 17:05:05,848 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:05:05,849 - INFO - Creating segment 11: start=1017.00s, duration=101.00s
+2025-09-15 17:05:07,284 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:05:07,285 - INFO - Creating segment 12: start=1118.00s, duration=106.00s
+2025-09-15 17:05:08,074 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:05:08,074 - INFO - Creating segment 13: start=1224.00s, duration=98.00s
+2025-09-15 17:05:09,387 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:05:09,388 - INFO - Creating segment 14: start=1322.00s, duration=103.00s
+2025-09-15 17:05:10,486 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:05:10,487 - INFO - Creating segment 15: start=1425.00s, duration=103.00s
+2025-09-15 17:05:11,373 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:05:11,373 - INFO - Creating segment 16: start=1528.00s, duration=102.00s
+2025-09-15 17:05:12,102 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:05:12,102 - INFO - Creating segment 17: start=1630.00s, duration=96.00s
+2025-09-15 17:05:13,989 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:05:13,993 - INFO - Creating segment 18: start=1726.00s, duration=96.00s
+2025-09-15 17:05:16,102 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:05:16,103 - INFO - Creating segment 19: start=1822.00s, duration=110.00s
+2025-09-15 17:05:17,246 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:05:17,247 - INFO - Creating segment 20: start=1932.00s, duration=103.00s
+2025-09-15 17:05:19,013 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:05:19,014 - INFO - Creating segment 21: start=2035.00s, duration=99.00s
+2025-09-15 17:05:20,252 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:05:20,252 - INFO - Creating segment 22: start=2134.00s, duration=96.00s
+2025-09-15 17:05:21,437 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:05:21,437 - INFO - Creating segment 23: start=2230.00s, duration=101.00s
+2025-09-15 17:05:22,050 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:05:22,050 - INFO - Creating segment 24: start=2331.00s, duration=96.00s
+2025-09-15 17:05:22,611 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:05:22,612 - INFO - Creating segment 25: start=2427.00s, duration=99.00s
+2025-09-15 17:05:24,372 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:05:24,373 - INFO - Creating segment 26: start=2526.00s, duration=136.16s
+2025-09-15 17:05:26,196 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:05:26,196 - INFO - Successfully created 26 segments
+2025-09-15 17:05:26,197 - INFO - Đã cắt thành 26 đoạn
+2025-09-15 17:05:26,197 - INFO - Đã cắt thành 26 đoạn
+2025-09-15 17:05:26,205 - INFO - Đã cắt thành 26 đoạn video
+2025-09-15 17:05:26,205 - INFO - Đã cắt thành 26 đoạn video
+2025-09-15 17:05:26,216 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-15 17:05:26,216 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-15 17:05:26,226 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:05:26,230 - INFO - Đã xử lý thành công: 26 video
+2025-09-15 17:05:26,233 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (32.1 MB)
+2025-09-15 17:05:26,236 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (41.4 MB)
+2025-09-15 17:05:26,239 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (41.0 MB)
+2025-09-15 17:05:26,243 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (33.6 MB)
+2025-09-15 17:05:26,246 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (41.0 MB)
+2025-09-15 17:05:26,250 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (41.9 MB)
+2025-09-15 17:05:26,254 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (39.6 MB)
+2025-09-15 17:05:26,257 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (32.7 MB)
+2025-09-15 17:05:26,262 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (27.4 MB)
+2025-09-15 17:05:26,265 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (28.7 MB)
+2025-09-15 17:05:26,269 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (49.4 MB)
+2025-09-15 17:05:26,272 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (41.4 MB)
+2025-09-15 17:05:26,276 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (39.0 MB)
+2025-09-15 17:05:26,282 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (27.8 MB)
+2025-09-15 17:05:26,286 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (39.7 MB)
+2025-09-15 17:05:26,289 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (32.9 MB)
+2025-09-15 17:05:26,293 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (35.4 MB)
+2025-09-15 17:05:26,298 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (46.8 MB)
+2025-09-15 17:05:26,301 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (45.8 MB)
+2025-09-15 17:05:26,305 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (52.5 MB)
+2025-09-15 17:05:26,310 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (34.6 MB)
+2025-09-15 17:05:26,315 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (38.6 MB)
+2025-09-15 17:05:26,320 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (35.2 MB)
+2025-09-15 17:05:26,326 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (26.9 MB)
+2025-09-15 17:05:26,332 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (33.2 MB)
+2025-09-15 17:05:26,336 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (52.6 MB)
+2025-09-15 17:05:26,340 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:12:38,146 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:12:38,219 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:12:38,261 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:12:38,297 - INFO - Độ phân giải: 1080p
+2025-09-15 17:12:38,377 - INFO - Cắt video: 71-74s (ngắn: 59s)
+2025-09-15 17:12:38,449 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:12:38,454 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:12:38,527 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:12:38,531 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:12:51,027 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:12:51,029 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:12:51,063 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:12:51,066 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:12:51,095 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:12:51,100 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:12:51,134 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:13:03,715 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:13:03,715 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:13:03,722 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 17:13:14,993 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:13:14,994 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:13:15,010 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:13:15,553 - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:13:15,554 - INFO - Will create 37 segments
+2025-09-15 17:13:15,556 - INFO - Creating segment 1: start=0.00s, duration=73.00s
+2025-09-15 17:13:16,334 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:13:16,336 - INFO - Creating segment 2: start=73.00s, duration=72.00s
+2025-09-15 17:13:18,306 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:13:18,307 - INFO - Creating segment 3: start=145.00s, duration=71.00s
+2025-09-15 17:13:19,086 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:13:19,087 - INFO - Creating segment 4: start=216.00s, duration=72.00s
+2025-09-15 17:13:20,036 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:13:20,038 - INFO - Creating segment 5: start=288.00s, duration=71.00s
+2025-09-15 17:13:21,132 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:13:21,133 - INFO - Creating segment 6: start=359.00s, duration=74.00s
+2025-09-15 17:13:21,869 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:13:21,871 - INFO - Creating segment 7: start=433.00s, duration=71.00s
+2025-09-15 17:13:22,690 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:13:22,691 - INFO - Creating segment 8: start=504.00s, duration=72.00s
+2025-09-15 17:13:23,775 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:13:23,777 - INFO - Creating segment 9: start=576.00s, duration=71.00s
+2025-09-15 17:13:24,545 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:13:24,546 - INFO - Creating segment 10: start=647.00s, duration=73.00s
+2025-09-15 17:13:25,569 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:13:25,571 - INFO - Creating segment 11: start=720.00s, duration=72.00s
+2025-09-15 17:13:26,725 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:13:26,727 - INFO - Creating segment 12: start=792.00s, duration=73.00s
+2025-09-15 17:13:27,423 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:13:27,424 - INFO - Creating segment 13: start=865.00s, duration=71.00s
+2025-09-15 17:13:28,127 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:13:28,129 - INFO - Creating segment 14: start=936.00s, duration=71.00s
+2025-09-15 17:13:28,874 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:13:28,875 - INFO - Creating segment 15: start=1007.00s, duration=73.00s
+2025-09-15 17:13:30,422 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:13:30,423 - INFO - Creating segment 16: start=1080.00s, duration=72.00s
+2025-09-15 17:13:31,281 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:13:31,282 - INFO - Creating segment 17: start=1152.00s, duration=74.00s
+2025-09-15 17:13:32,095 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:13:32,097 - INFO - Creating segment 18: start=1226.00s, duration=71.00s
+2025-09-15 17:13:32,968 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:13:32,969 - INFO - Creating segment 19: start=1297.00s, duration=71.00s
+2025-09-15 17:13:34,439 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:13:34,440 - INFO - Creating segment 20: start=1368.00s, duration=71.00s
+2025-09-15 17:13:35,122 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:13:35,123 - INFO - Creating segment 21: start=1439.00s, duration=72.00s
+2025-09-15 17:13:36,267 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:13:36,268 - INFO - Creating segment 22: start=1511.00s, duration=74.00s
+2025-09-15 17:13:36,984 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:13:36,985 - INFO - Creating segment 23: start=1585.00s, duration=74.00s
+2025-09-15 17:13:37,739 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:13:37,739 - INFO - Creating segment 24: start=1659.00s, duration=71.00s
+2025-09-15 17:13:38,761 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:13:38,762 - INFO - Creating segment 25: start=1730.00s, duration=73.00s
+2025-09-15 17:13:40,055 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:13:40,057 - INFO - Creating segment 26: start=1803.00s, duration=73.00s
+2025-09-15 17:13:41,756 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:13:41,758 - INFO - Creating segment 27: start=1876.00s, duration=73.00s
+2025-09-15 17:13:43,178 - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:13:43,180 - INFO - Creating segment 28: start=1949.00s, duration=74.00s
+2025-09-15 17:13:44,466 - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:13:44,471 - INFO - Creating segment 29: start=2023.00s, duration=73.00s
+2025-09-15 17:13:45,455 - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:13:45,459 - INFO - Creating segment 30: start=2096.00s, duration=74.00s
+2025-09-15 17:13:47,530 - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:13:47,534 - INFO - Creating segment 31: start=2170.00s, duration=72.00s
+2025-09-15 17:13:48,777 - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:13:48,779 - INFO - Creating segment 32: start=2242.00s, duration=72.00s
+2025-09-15 17:13:50,310 - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:13:50,312 - INFO - Creating segment 33: start=2314.00s, duration=74.00s
+2025-09-15 17:13:51,158 - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:13:51,161 - INFO - Creating segment 34: start=2388.00s, duration=72.00s
+2025-09-15 17:13:52,346 - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:13:52,348 - INFO - Creating segment 35: start=2460.00s, duration=71.00s
+2025-09-15 17:13:53,274 - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:13:53,276 - INFO - Creating segment 36: start=2531.00s, duration=71.00s
+2025-09-15 17:13:53,929 - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:13:53,932 - INFO - Creating segment 37: start=2602.00s, duration=60.16s
+2025-09-15 17:13:55,058 - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:13:55,060 - INFO - Successfully created 37 segments
+2025-09-15 17:13:55,061 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:13:55,061 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:13:55,081 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:13:55,082 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:13:55,103 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:13:55,103 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:13:55,121 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:13:55,128 - INFO - Đã xử lý thành công: 37 video
+2025-09-15 17:13:55,133 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (24.0 MB)
+2025-09-15 17:13:55,139 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (29.8 MB)
+2025-09-15 17:13:55,148 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (26.7 MB)
+2025-09-15 17:13:55,153 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (29.2 MB)
+2025-09-15 17:13:55,161 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (25.6 MB)
+2025-09-15 17:13:55,166 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (24.9 MB)
+2025-09-15 17:13:55,173 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (31.9 MB)
+2025-09-15 17:13:55,180 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (28.6 MB)
+2025-09-15 17:13:55,187 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (24.2 MB)
+2025-09-15 17:13:55,194 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (31.8 MB)
+2025-09-15 17:13:55,201 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (25.7 MB)
+2025-09-15 17:13:55,210 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (17.3 MB)
+2025-09-15 17:13:55,217 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (23.0 MB)
+2025-09-15 17:13:55,223 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (19.1 MB)
+2025-09-15 17:13:55,229 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (38.7 MB)
+2025-09-15 17:13:55,235 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (28.6 MB)
+2025-09-15 17:13:55,243 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (28.6 MB)
+2025-09-15 17:13:55,249 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (28.8 MB)
+2025-09-15 17:13:55,255 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (20.3 MB)
+2025-09-15 17:13:55,261 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (19.4 MB)
+2025-09-15 17:13:55,266 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (31.5 MB)
+2025-09-15 17:13:55,274 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (25.9 MB)
+2025-09-15 17:13:55,280 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (22.6 MB)
+2025-09-15 17:13:55,286 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (28.5 MB)
+2025-09-15 17:13:55,293 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (35.6 MB)
+2025-09-15 17:13:55,298 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (36.6 MB)
+2025-09-15 17:13:55,304 - INFO - 27. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4 (29.3 MB)
+2025-09-15 17:13:55,311 - INFO - 28. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4 (38.7 MB)
+2025-09-15 17:13:55,317 - INFO - 29. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4 (27.4 MB)
+2025-09-15 17:13:55,326 - INFO - 30. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4 (27.9 MB)
+2025-09-15 17:13:55,334 - INFO - 31. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4 (27.4 MB)
+2025-09-15 17:13:55,340 - INFO - 32. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4 (26.2 MB)
+2025-09-15 17:13:55,347 - INFO - 33. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4 (21.6 MB)
+2025-09-15 17:13:55,353 - INFO - 34. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4 (19.3 MB)
+2025-09-15 17:13:55,359 - INFO - 35. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4 (28.2 MB)
+2025-09-15 17:13:55,367 - INFO - 36. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4 (26.8 MB)
+2025-09-15 17:13:55,432 - INFO - 37. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4 (24.1 MB)
+2025-09-15 17:13:55,452 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:15:31,794 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:31,801 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:31,804 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:15:31,806 - INFO - Độ phân giải: 1080p
+2025-09-15 17:15:31,809 - INFO - Cắt video: 71-74s (ngắn: 59s)
+2025-09-15 17:15:31,812 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:31,813 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:31,819 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:31,820 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:38,010 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:38,168 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:38,172 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:15:38,176 - INFO - Độ phân giải: 1080p
+2025-09-15 17:15:38,179 - INFO - Cắt video: 71-74s (ngắn: 0s)
+2025-09-15 17:15:38,185 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:38,185 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:38,192 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:38,194 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:38,309 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:38,328 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:38,333 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:38,333 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:38,336 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:38,337 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:38,341 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:38,453 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-15 17:15:38,453 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-15 17:15:38,460 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:15:38,466 - INFO - Đã xử lý thành công: 0 video
+2025-09-15 17:15:40,439 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:40,446 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:15:40,450 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:15:40,454 - INFO - Độ phân giải: 1080p
+2025-09-15 17:15:40,457 - INFO - Cắt video: 71-74s (ngắn: 0s)
+2025-09-15 17:15:40,460 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:40,460 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:15:40,467 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:40,467 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:15:44,469 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:44,495 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:44,498 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:44,499 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:44,502 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:44,502 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:44,506 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:49,442 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:49,442 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:15:49,445 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:49,446 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:15:49,448 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:49,449 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:49,452 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:15:53,829 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:15:53,830 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:15:53,833 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 17:16:01,031 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:16:01,078 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:16:01,265 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 17:16:03,090 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:03,090 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:03,099 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:03,350 - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:16:03,350 - INFO - Will create 36 segments
+2025-09-15 17:16:03,351 - INFO - Creating segment 1: start=0.00s, duration=73.00s
+2025-09-15 17:16:03,929 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:16:03,930 - INFO - Creating segment 2: start=73.00s, duration=73.00s
+2025-09-15 17:16:04,490 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:16:04,569 - INFO - Creating segment 3: start=146.00s, duration=73.00s
+2025-09-15 17:16:05,261 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:16:05,340 - INFO - Creating segment 4: start=219.00s, duration=71.00s
+2025-09-15 17:16:06,215 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:16:06,293 - INFO - Creating segment 5: start=290.00s, duration=72.00s
+2025-09-15 17:16:07,390 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:16:07,468 - INFO - Creating segment 6: start=362.00s, duration=74.00s
+2025-09-15 17:16:08,394 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:16:08,471 - INFO - Creating segment 7: start=436.00s, duration=71.00s
+2025-09-15 17:16:08,803 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:08,804 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:08,830 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:16:08,993 - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:16:08,993 - INFO - Will create 37 segments
+2025-09-15 17:16:08,994 - INFO - Creating segment 1: start=0.00s, duration=74.00s
+2025-09-15 17:16:09,202 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:16:09,203 - INFO - Creating segment 2: start=74.00s, duration=71.00s
+2025-09-15 17:16:10,082 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:16:10,082 - INFO - Creating segment 3: start=145.00s, duration=72.00s
+2025-09-15 17:16:10,488 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:16:10,489 - INFO - Creating segment 4: start=217.00s, duration=72.00s
+2025-09-15 17:16:11,004 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:16:11,005 - INFO - Creating segment 5: start=289.00s, duration=73.00s
+2025-09-15 17:16:11,398 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:16:11,399 - INFO - Creating segment 6: start=362.00s, duration=72.00s
+2025-09-15 17:16:11,762 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:16:11,763 - INFO - Creating segment 7: start=434.00s, duration=71.00s
+2025-09-15 17:16:13,552 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:16:13,553 - INFO - Creating segment 8: start=505.00s, duration=73.00s
+2025-09-15 17:16:13,560 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:16:13,561 - INFO - Creating segment 8: start=507.00s, duration=71.00s
+2025-09-15 17:16:13,954 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:16:13,954 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:16:13,955 - INFO - Creating segment 9: start=578.00s, duration=72.00s
+2025-09-15 17:16:13,955 - INFO - Creating segment 9: start=578.00s, duration=72.00s
+2025-09-15 17:16:14,846 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:16:14,847 - INFO - Creating segment 10: start=650.00s, duration=73.00s
+2025-09-15 17:16:14,848 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:16:14,849 - INFO - Creating segment 10: start=650.00s, duration=72.00s
+2025-09-15 17:16:16,142 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:16:16,143 - INFO - Creating segment 11: start=722.00s, duration=73.00s
+2025-09-15 17:16:16,146 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:16:16,147 - INFO - Creating segment 11: start=723.00s, duration=73.00s
+2025-09-15 17:16:16,942 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:16:16,943 - INFO - Creating segment 12: start=795.00s, duration=72.00s
+2025-09-15 17:16:16,944 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:16:16,945 - INFO - Creating segment 12: start=796.00s, duration=72.00s
+2025-09-15 17:16:17,637 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:16:17,638 - INFO - Creating segment 13: start=867.00s, duration=74.00s
+2025-09-15 17:16:17,639 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:16:17,640 - INFO - Creating segment 13: start=868.00s, duration=72.00s
+2025-09-15 17:16:18,190 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:16:18,191 - INFO - Creating segment 14: start=940.00s, duration=72.00s
+2025-09-15 17:16:18,217 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:16:18,217 - INFO - Creating segment 14: start=941.00s, duration=74.00s
+2025-09-15 17:16:18,819 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:16:18,820 - INFO - Creating segment 15: start=1012.00s, duration=74.00s
+2025-09-15 17:16:18,834 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:16:18,835 - INFO - Creating segment 15: start=1015.00s, duration=72.00s
+2025-09-15 17:16:20,114 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:16:20,115 - INFO - Creating segment 16: start=1086.00s, duration=72.00s
+2025-09-15 17:16:20,119 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:16:20,120 - INFO - Creating segment 16: start=1087.00s, duration=72.00s
+2025-09-15 17:16:20,741 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:16:20,742 - INFO - Creating segment 17: start=1158.00s, duration=74.00s
+2025-09-15 17:16:20,746 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:16:20,747 - INFO - Creating segment 17: start=1159.00s, duration=71.00s
+2025-09-15 17:16:22,609 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:16:22,610 - INFO - Creating segment 18: start=1230.00s, duration=74.00s
+2025-09-15 17:16:22,615 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:16:22,616 - INFO - Creating segment 18: start=1232.00s, duration=73.00s
+2025-09-15 17:16:23,436 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:16:23,437 - INFO - Creating segment 19: start=1304.00s, duration=72.00s
+2025-09-15 17:16:23,439 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:16:23,440 - INFO - Creating segment 19: start=1305.00s, duration=72.00s
+2025-09-15 17:16:24,423 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:16:24,424 - INFO - Creating segment 20: start=1376.00s, duration=72.00s
+2025-09-15 17:16:24,426 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:16:24,427 - INFO - Creating segment 20: start=1377.00s, duration=72.00s
+2025-09-15 17:16:25,257 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:16:25,259 - INFO - Creating segment 21: start=1448.00s, duration=73.00s
+2025-09-15 17:16:25,261 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:16:25,262 - INFO - Creating segment 21: start=1449.00s, duration=72.00s
+2025-09-15 17:16:26,180 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:16:26,181 - INFO - Creating segment 22: start=1521.00s, duration=71.00s
+2025-09-15 17:16:26,181 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:16:26,182 - INFO - Creating segment 22: start=1521.00s, duration=72.00s
+2025-09-15 17:16:27,154 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:16:27,155 - INFO - Creating segment 23: start=1592.00s, duration=72.00s
+2025-09-15 17:16:27,157 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:16:27,158 - INFO - Creating segment 23: start=1593.00s, duration=71.00s
+2025-09-15 17:16:27,878 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:16:27,879 - INFO - Creating segment 24: start=1664.00s, duration=71.00s
+2025-09-15 17:16:27,882 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:16:27,882 - INFO - Creating segment 24: start=1664.00s, duration=71.00s
+2025-09-15 17:16:28,787 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:16:28,788 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:16:28,788 - INFO - Creating segment 25: start=1735.00s, duration=72.00s
+2025-09-15 17:16:28,788 - INFO - Creating segment 25: start=1735.00s, duration=72.00s
+2025-09-15 17:16:29,819 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:16:29,820 - INFO - Creating segment 26: start=1807.00s, duration=72.00s
+2025-09-15 17:16:29,821 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:16:29,822 - INFO - Creating segment 26: start=1807.00s, duration=71.00s
+2025-09-15 17:16:30,523 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:16:30,524 - INFO - Creating segment 27: start=1878.00s, duration=73.00s
+2025-09-15 17:16:30,524 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:16:30,526 - INFO - Creating segment 27: start=1879.00s, duration=72.00s
+2025-09-15 17:16:31,528 - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:16:31,529 - INFO - Creating segment 28: start=1951.00s, duration=74.00s
+2025-09-15 17:16:31,530 - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:16:31,531 - INFO - Creating segment 28: start=1951.00s, duration=72.00s
+2025-09-15 17:16:33,453 - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:16:33,454 - INFO - Creating segment 29: start=2023.00s, duration=73.00s
+2025-09-15 17:16:33,468 - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:16:33,469 - INFO - Creating segment 29: start=2025.00s, duration=71.00s
+2025-09-15 17:16:34,459 - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:16:34,460 - INFO - Creating segment 30: start=2096.00s, duration=72.00s
+2025-09-15 17:16:34,460 - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:16:34,461 - INFO - Creating segment 30: start=2096.00s, duration=71.00s
+2025-09-15 17:16:35,109 - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:16:35,110 - INFO - Creating segment 31: start=2167.00s, duration=73.00s
+2025-09-15 17:16:35,117 - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:16:35,117 - INFO - Creating segment 31: start=2168.00s, duration=72.00s
+2025-09-15 17:16:35,962 - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:16:35,963 - INFO - Creating segment 32: start=2240.00s, duration=73.00s
+2025-09-15 17:16:35,963 - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:16:35,965 - INFO - Creating segment 32: start=2240.00s, duration=73.00s
+2025-09-15 17:16:36,632 - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:16:36,633 - INFO - Creating segment 33: start=2313.00s, duration=71.00s
+2025-09-15 17:16:36,634 - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:16:36,635 - INFO - Creating segment 33: start=2313.00s, duration=74.00s
+2025-09-15 17:16:37,353 - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:16:37,354 - INFO - Creating segment 34: start=2384.00s, duration=74.00s
+2025-09-15 17:16:37,361 - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:16:37,362 - INFO - Creating segment 34: start=2387.00s, duration=71.00s
+2025-09-15 17:16:38,781 - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:16:38,782 - INFO - Creating segment 35: start=2458.00s, duration=74.00s
+2025-09-15 17:16:38,783 - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:16:38,784 - INFO - Creating segment 35: start=2458.00s, duration=71.00s
+2025-09-15 17:16:39,352 - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:16:39,353 - INFO - Creating segment 36: start=2529.00s, duration=73.00s
+2025-09-15 17:16:39,364 - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:16:39,365 - INFO - Creating segment 36: start=2532.00s, duration=130.16s
+2025-09-15 17:16:40,571 - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:16:40,572 - INFO - Creating segment 37: start=2602.00s, duration=60.16s
+2025-09-15 17:16:41,577 - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:16:41,578 - INFO - Successfully created 37 segments
+2025-09-15 17:16:41,579 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:16:41,579 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:16:41,580 - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:16:41,581 - INFO - Successfully created 36 segments
+2025-09-15 17:16:41,581 - INFO - Đã cắt thành 36 đoạn
+2025-09-15 17:16:41,582 - INFO - Đã cắt thành 36 đoạn
+2025-09-15 17:16:41,588 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:16:41,588 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:16:41,597 - INFO - Đã cắt thành 36 đoạn video
+2025-09-15 17:16:41,597 - INFO - Đã cắt thành 36 đoạn video
+2025-09-15 17:16:41,608 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:16:41,609 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:16:41,610 - INFO - 
+=== Đã xử lý 36 video ===
+2025-09-15 17:16:41,610 - INFO - 
+=== Đã xử lý 36 video ===
+2025-09-15 17:16:41,616 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:16:41,618 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:16:41,620 - INFO - Đã xử lý thành công: 37 video
+2025-09-15 17:16:41,624 - INFO - Đã xử lý thành công: 36 video
+2025-09-15 17:16:41,626 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (24.4 MB)
+2025-09-15 17:16:41,628 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (24.4 MB)
+2025-09-15 17:16:41,630 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (29.8 MB)
+2025-09-15 17:16:41,633 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (29.8 MB)
+2025-09-15 17:16:41,636 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (27.1 MB)
+2025-09-15 17:16:41,638 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (27.1 MB)
+2025-09-15 17:16:41,640 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (27.0 MB)
+2025-09-15 17:16:41,643 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (27.0 MB)
+2025-09-15 17:16:41,645 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (26.8 MB)
+2025-09-15 17:16:41,648 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (26.8 MB)
+2025-09-15 17:16:41,651 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (25.5 MB)
+2025-09-15 17:16:41,654 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (25.5 MB)
+2025-09-15 17:16:41,656 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (30.6 MB)
+2025-09-15 17:16:41,658 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (30.6 MB)
+2025-09-15 17:16:41,660 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (29.3 MB)
+2025-09-15 17:16:41,662 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (29.3 MB)
+2025-09-15 17:16:41,664 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (25.2 MB)
+2025-09-15 17:16:41,666 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (25.2 MB)
+2025-09-15 17:16:41,669 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (31.3 MB)
+2025-09-15 17:16:41,671 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (31.3 MB)
+2025-09-15 17:16:41,674 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (24.1 MB)
+2025-09-15 17:16:41,677 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (24.1 MB)
+2025-09-15 17:16:41,679 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (17.8 MB)
+2025-09-15 17:16:41,681 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (17.8 MB)
+2025-09-15 17:16:41,686 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (23.9 MB)
+2025-09-15 17:16:41,688 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (23.9 MB)
+2025-09-15 17:16:41,691 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (21.0 MB)
+2025-09-15 17:16:41,694 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (21.0 MB)
+2025-09-15 17:16:41,696 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (38.3 MB)
+2025-09-15 17:16:41,697 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (38.3 MB)
+2025-09-15 17:16:41,700 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (28.1 MB)
+2025-09-15 17:16:41,703 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (28.1 MB)
+2025-09-15 17:16:41,705 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (29.0 MB)
+2025-09-15 17:16:41,706 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (29.0 MB)
+2025-09-15 17:16:41,709 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (30.1 MB)
+2025-09-15 17:16:41,712 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (30.1 MB)
+2025-09-15 17:16:41,714 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (20.8 MB)
+2025-09-15 17:16:41,717 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (20.8 MB)
+2025-09-15 17:16:41,721 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (19.1 MB)
+2025-09-15 17:16:41,724 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (19.1 MB)
+2025-09-15 17:16:41,726 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (32.4 MB)
+2025-09-15 17:16:41,728 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (32.4 MB)
+2025-09-15 17:16:41,731 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (25.3 MB)
+2025-09-15 17:16:41,734 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (25.3 MB)
+2025-09-15 17:16:41,736 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (22.1 MB)
+2025-09-15 17:16:41,738 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (22.1 MB)
+2025-09-15 17:16:41,739 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (28.8 MB)
+2025-09-15 17:16:41,741 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (28.8 MB)
+2025-09-15 17:16:41,744 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (36.3 MB)
+2025-09-15 17:16:41,745 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (36.3 MB)
+2025-09-15 17:16:41,747 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (34.7 MB)
+2025-09-15 17:16:41,749 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (34.7 MB)
+2025-09-15 17:16:41,751 - INFO - 27. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4 (30.4 MB)
+2025-09-15 17:16:41,753 - INFO - 27. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4 (30.4 MB)
+2025-09-15 17:16:41,755 - INFO - 28. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4 (36.6 MB)
+2025-09-15 17:16:41,759 - INFO - 28. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4 (36.6 MB)
+2025-09-15 17:16:41,761 - INFO - 29. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4 (27.4 MB)
+2025-09-15 17:16:41,763 - INFO - 29. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4 (27.4 MB)
+2025-09-15 17:16:41,767 - INFO - 30. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4 (26.9 MB)
+2025-09-15 17:16:41,769 - INFO - 30. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4 (26.9 MB)
+2025-09-15 17:16:41,772 - INFO - 31. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4 (26.5 MB)
+2025-09-15 17:16:41,774 - INFO - 31. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4 (26.5 MB)
+2025-09-15 17:16:41,776 - INFO - 32. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4 (25.7 MB)
+2025-09-15 17:16:41,778 - INFO - 32. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4 (25.7 MB)
+2025-09-15 17:16:41,779 - INFO - 33. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4 (21.3 MB)
+2025-09-15 17:16:41,782 - INFO - 33. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4 (21.3 MB)
+2025-09-15 17:16:41,785 - INFO - 34. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4 (18.7 MB)
+2025-09-15 17:16:41,788 - INFO - 34. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4 (18.7 MB)
+2025-09-15 17:16:41,791 - INFO - 35. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4 (29.4 MB)
+2025-09-15 17:16:41,794 - INFO - 35. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4 (29.4 MB)
+2025-09-15 17:16:41,796 - INFO - 36. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4 (50.2 MB)
+2025-09-15 17:16:41,806 - INFO - 36. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4 (50.2 MB)
+2025-09-15 17:16:41,809 - INFO - 37. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4 (24.1 MB)
+2025-09-15 17:16:41,810 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:16:41,813 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:23:35,948 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:23:36,058 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:23:36,064 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:23:36,069 - INFO - Độ phân giải: 1080p
+2025-09-15 17:23:36,076 - INFO - Cắt video: 71-74s (ngắn: 0s)
+2025-09-15 17:23:36,082 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:23:36,083 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:23:36,100 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:23:36,100 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:23:52,481 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:23:52,482 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:23:52,493 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:23:52,494 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:23:52,515 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:23:52,516 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:23:52,536 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:23:52,822 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-15 17:23:52,823 - INFO - 
+=== Đã xử lý 0 video ===
+2025-09-15 17:24:10,357 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:24:10,364 - INFO - Bắt đầu tải 1 video(s)
+2025-09-15 17:24:10,367 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-15 17:24:10,371 - INFO - Độ phân giải: 1080p
+2025-09-15 17:24:10,375 - INFO - Cắt video: 71-74s (ngắn: 0s)
+2025-09-15 17:24:10,378 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:24:10,379 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-15 17:24:10,383 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:24:10,384 - INFO - Đang tải video: https://www.youtube.com/watch?v=YrR-Cwn1In0Q
+2025-09-15 17:24:15,564 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:24:15,565 - INFO - Tiêu đề: Última supervivencia en el océano | Solo contra el Mundo | Nat Geo en Español
+2025-09-15 17:24:15,569 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:24:15,569 - INFO - Thời lượng: 2662 giây
+2025-09-15 17:24:15,573 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:24:15,574 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:24:15,579 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-15 17:24:20,982 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:24:20,982 - INFO - Format được chọn: 298+140 - 1280x720 - 2904.001kbps - avc1.640020
+2025-09-15 17:24:20,986 - INFO - Chi tiết format: ID=298+140, Resolution=1280x720, VBR=2904.001kbps, Codec=avc1.640020
+2025-09-15 17:24:26,040 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:24:26,040 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:24:26,049 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0.mp4
+2025-09-15 17:24:26,391 - INFO - Video duration: 2662.16 seconds
+2025-09-15 17:24:26,391 - INFO - Will create 37 segments
+2025-09-15 17:24:26,392 - INFO - Creating segment 1: start=0.00s, duration=72.00s
+2025-09-15 17:24:27,032 - INFO - Segment 1 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4
+2025-09-15 17:24:27,033 - INFO - Creating segment 2: start=72.00s, duration=72.00s
+2025-09-15 17:24:27,423 - INFO - Segment 2 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4
+2025-09-15 17:24:27,424 - INFO - Creating segment 3: start=144.00s, duration=71.00s
+2025-09-15 17:24:27,794 - INFO - Segment 3 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4
+2025-09-15 17:24:27,795 - INFO - Creating segment 4: start=215.00s, duration=72.00s
+2025-09-15 17:24:28,302 - INFO - Segment 4 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4
+2025-09-15 17:24:28,303 - INFO - Creating segment 5: start=287.00s, duration=74.00s
+2025-09-15 17:24:29,094 - INFO - Segment 5 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4
+2025-09-15 17:24:29,095 - INFO - Creating segment 6: start=361.00s, duration=73.00s
+2025-09-15 17:24:29,724 - INFO - Segment 6 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4
+2025-09-15 17:24:29,725 - INFO - Creating segment 7: start=434.00s, duration=72.00s
+2025-09-15 17:24:30,384 - INFO - Segment 7 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4
+2025-09-15 17:24:30,385 - INFO - Creating segment 8: start=506.00s, duration=71.00s
+2025-09-15 17:24:31,723 - INFO - Segment 8 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4
+2025-09-15 17:24:31,724 - INFO - Creating segment 9: start=577.00s, duration=74.00s
+2025-09-15 17:24:32,343 - INFO - Segment 9 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4
+2025-09-15 17:24:32,344 - INFO - Creating segment 10: start=651.00s, duration=72.00s
+2025-09-15 17:24:33,204 - INFO - Segment 10 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4
+2025-09-15 17:24:33,205 - INFO - Creating segment 11: start=723.00s, duration=74.00s
+2025-09-15 17:24:34,024 - INFO - Segment 11 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4
+2025-09-15 17:24:34,024 - INFO - Creating segment 12: start=797.00s, duration=71.00s
+2025-09-15 17:24:34,463 - INFO - Segment 12 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4
+2025-09-15 17:24:34,464 - INFO - Creating segment 13: start=868.00s, duration=71.00s
+2025-09-15 17:24:35,016 - INFO - Segment 13 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4
+2025-09-15 17:24:35,017 - INFO - Creating segment 14: start=939.00s, duration=71.00s
+2025-09-15 17:24:35,890 - INFO - Segment 14 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4
+2025-09-15 17:24:35,891 - INFO - Creating segment 15: start=1010.00s, duration=73.00s
+2025-09-15 17:24:37,533 - INFO - Segment 15 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4
+2025-09-15 17:24:37,534 - INFO - Creating segment 16: start=1083.00s, duration=72.00s
+2025-09-15 17:24:37,926 - INFO - Segment 16 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4
+2025-09-15 17:24:37,926 - INFO - Creating segment 17: start=1155.00s, duration=72.00s
+2025-09-15 17:24:39,087 - INFO - Segment 17 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4
+2025-09-15 17:24:39,088 - INFO - Creating segment 18: start=1227.00s, duration=73.00s
+2025-09-15 17:24:39,814 - INFO - Segment 18 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4
+2025-09-15 17:24:39,815 - INFO - Creating segment 19: start=1300.00s, duration=73.00s
+2025-09-15 17:24:40,454 - INFO - Segment 19 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4
+2025-09-15 17:24:40,455 - INFO - Creating segment 20: start=1373.00s, duration=74.00s
+2025-09-15 17:24:41,120 - INFO - Segment 20 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4
+2025-09-15 17:24:41,121 - INFO - Creating segment 21: start=1447.00s, duration=73.00s
+2025-09-15 17:24:41,966 - INFO - Segment 21 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4
+2025-09-15 17:24:41,967 - INFO - Creating segment 22: start=1520.00s, duration=71.00s
+2025-09-15 17:24:43,334 - INFO - Segment 22 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4
+2025-09-15 17:24:43,335 - INFO - Creating segment 23: start=1591.00s, duration=71.00s
+2025-09-15 17:24:44,357 - INFO - Segment 23 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4
+2025-09-15 17:24:44,358 - INFO - Creating segment 24: start=1662.00s, duration=71.00s
+2025-09-15 17:24:44,827 - INFO - Segment 24 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4
+2025-09-15 17:24:44,828 - INFO - Creating segment 25: start=1733.00s, duration=71.00s
+2025-09-15 17:24:45,661 - INFO - Segment 25 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4
+2025-09-15 17:24:45,662 - INFO - Creating segment 26: start=1804.00s, duration=72.00s
+2025-09-15 17:24:46,767 - INFO - Segment 26 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4
+2025-09-15 17:24:46,768 - INFO - Creating segment 27: start=1876.00s, duration=74.00s
+2025-09-15 17:24:48,563 - INFO - Segment 27 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4
+2025-09-15 17:24:48,563 - INFO - Creating segment 28: start=1950.00s, duration=73.00s
+2025-09-15 17:24:49,814 - INFO - Segment 28 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4
+2025-09-15 17:24:49,815 - INFO - Creating segment 29: start=2023.00s, duration=71.00s
+2025-09-15 17:24:50,444 - INFO - Segment 29 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4
+2025-09-15 17:24:50,445 - INFO - Creating segment 30: start=2094.00s, duration=71.00s
+2025-09-15 17:24:51,669 - INFO - Segment 30 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4
+2025-09-15 17:24:51,670 - INFO - Creating segment 31: start=2165.00s, duration=71.00s
+2025-09-15 17:24:52,042 - INFO - Segment 31 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4
+2025-09-15 17:24:52,043 - INFO - Creating segment 32: start=2236.00s, duration=72.00s
+2025-09-15 17:24:52,749 - INFO - Segment 32 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4
+2025-09-15 17:24:52,750 - INFO - Creating segment 33: start=2308.00s, duration=71.00s
+2025-09-15 17:24:53,355 - INFO - Segment 33 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4
+2025-09-15 17:24:53,356 - INFO - Creating segment 34: start=2379.00s, duration=72.00s
+2025-09-15 17:24:54,586 - INFO - Segment 34 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4
+2025-09-15 17:24:54,587 - INFO - Creating segment 35: start=2451.00s, duration=72.00s
+2025-09-15 17:24:55,336 - INFO - Segment 35 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4
+2025-09-15 17:24:55,337 - INFO - Creating segment 36: start=2523.00s, duration=71.00s
+2025-09-15 17:24:56,377 - INFO - Segment 36 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4
+2025-09-15 17:24:56,378 - INFO - Creating segment 37: start=2594.00s, duration=68.16s
+2025-09-15 17:24:57,254 - INFO - Segment 37 created successfully: Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4
+2025-09-15 17:24:57,255 - INFO - Successfully created 37 segments
+2025-09-15 17:24:57,256 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:24:57,256 - INFO - Đã cắt thành 37 đoạn
+2025-09-15 17:24:57,262 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:24:57,262 - INFO - Đã cắt thành 37 đoạn video
+2025-09-15 17:24:57,271 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:24:57,271 - INFO - 
+=== Đã xử lý 37 video ===
+2025-09-15 17:24:57,278 - INFO - 
+=== KẾT QUẢ ===
+2025-09-15 17:24:57,279 - INFO - Đã xử lý thành công: 37 video
+2025-09-15 17:24:57,282 - INFO - 1. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_01.mp4 (23.4 MB)
+2025-09-15 17:24:57,284 - INFO - 2. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_02.mp4 (29.5 MB)
+2025-09-15 17:24:57,286 - INFO - 3. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_03.mp4 (26.3 MB)
+2025-09-15 17:24:57,288 - INFO - 4. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_04.mp4 (28.9 MB)
+2025-09-15 17:24:57,289 - INFO - 5. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_05.mp4 (27.7 MB)
+2025-09-15 17:24:57,291 - INFO - 6. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_06.mp4 (25.5 MB)
+2025-09-15 17:24:57,292 - INFO - 7. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_07.mp4 (30.2 MB)
+2025-09-15 17:24:57,293 - INFO - 8. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_08.mp4 (29.0 MB)
+2025-09-15 17:24:57,295 - INFO - 9. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_09.mp4 (25.6 MB)
+2025-09-15 17:24:57,297 - INFO - 10. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_10.mp4 (31.3 MB)
+2025-09-15 17:24:57,299 - INFO - 11. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_11.mp4 (24.3 MB)
+2025-09-15 17:24:57,301 - INFO - 12. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_12.mp4 (16.5 MB)
+2025-09-15 17:24:57,303 - INFO - 13. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_13.mp4 (22.9 MB)
+2025-09-15 17:24:57,304 - INFO - 14. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_14.mp4 (19.0 MB)
+2025-09-15 17:24:57,305 - INFO - 15. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_15.mp4 (38.0 MB)
+2025-09-15 17:24:57,307 - INFO - 16. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_16.mp4 (29.4 MB)
+2025-09-15 17:24:57,309 - INFO - 17. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_17.mp4 (27.5 MB)
+2025-09-15 17:24:57,310 - INFO - 18. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_18.mp4 (29.7 MB)
+2025-09-15 17:24:57,312 - INFO - 19. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_19.mp4 (19.8 MB)
+2025-09-15 17:24:57,313 - INFO - 20. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_20.mp4 (20.0 MB)
+2025-09-15 17:24:57,315 - INFO - 21. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_21.mp4 (32.1 MB)
+2025-09-15 17:24:57,317 - INFO - 22. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_22.mp4 (24.6 MB)
+2025-09-15 17:24:57,319 - INFO - 23. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_23.mp4 (21.4 MB)
+2025-09-15 17:24:57,321 - INFO - 24. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_24.mp4 (29.3 MB)
+2025-09-15 17:24:57,322 - INFO - 25. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_25.mp4 (36.2 MB)
+2025-09-15 17:24:57,324 - INFO - 26. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_26.mp4 (34.0 MB)
+2025-09-15 17:24:57,326 - INFO - 27. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_27.mp4 (29.9 MB)
+2025-09-15 17:24:57,328 - INFO - 28. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_28.mp4 (35.8 MB)
+2025-09-15 17:24:57,330 - INFO - 29. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_29.mp4 (26.9 MB)
+2025-09-15 17:24:57,332 - INFO - 30. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_30.mp4 (26.8 MB)
+2025-09-15 17:24:57,334 - INFO - 31. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_31.mp4 (27.2 MB)
+2025-09-15 17:24:57,337 - INFO - 32. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_32.mp4 (24.4 MB)
+2025-09-15 17:24:57,339 - INFO - 33. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_33.mp4 (22.0 MB)
+2025-09-15 17:24:57,341 - INFO - 34. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_34.mp4 (18.8 MB)
+2025-09-15 17:24:57,342 - INFO - 35. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_35.mp4 (26.3 MB)
+2025-09-15 17:24:57,344 - INFO - 36. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_36.mp4 (28.9 MB)
+2025-09-15 17:24:57,346 - INFO - 37. Última supervivencia en el océano  Solo contra el _YrR-Cwn1In0_37.mp4 (27.3 MB)
+2025-09-15 17:24:57,349 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
+2025-09-16 11:05:07,784 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:11:15,632 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:12:12,284 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:12:16,953 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:13:00,466 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:15:29,511 - INFO - Đã cập nhật config: MIN_CUT_TIME=71, MAX_CUT_TIME=73, SHORT_VIDEO_THRESHOLD=0
+2025-09-16 11:15:29,521 - INFO - Đã lưu cài đặt vào file config.py
+2025-09-16 11:16:16,319 - INFO - Bắt đầu tải 1 video(s)
+2025-09-16 11:16:16,426 - INFO - Bắt đầu tải 1 video(s)
+2025-09-16 11:16:16,431 - INFO - Thư mục lưu: E:\tool-down-Youtube-and-cut\downloads
+2025-09-16 11:16:16,434 - INFO - Độ phân giải: 1080p
+2025-09-16 11:16:16,436 - INFO - Cắt video: 70-73s (ngắn: 0s)
+2025-09-16 11:16:16,439 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-16 11:16:16,440 - INFO - 
+=== Xử lý video 1/1 ===
+2025-09-16 11:16:16,447 - INFO - Đang tải video: https://www.youtube.com/watch?v=kNrRmtYR34g
+2025-09-16 11:16:16,447 - INFO - Đang tải video: https://www.youtube.com/watch?v=kNrRmtYR34g
+2025-09-16 11:16:25,827 - INFO - Tiêu đề: ¿Podremos Derrotar al bebé amarillo para siempre?
+2025-09-16 11:16:25,827 - INFO - Tiêu đề: ¿Podremos Derrotar al bebé amarillo para siempre?
+2025-09-16 11:16:25,832 - INFO - Thời lượng: 1802 giây
+2025-09-16 11:16:25,833 - INFO - Thời lượng: 1802 giây
+2025-09-16 11:16:25,836 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-16 11:16:25,903 - INFO - Format selector: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-16 11:16:25,906 - INFO - Format selector được sử dụng: bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/bestvideo[height<=1080]+bestaudio/best[height<=1080]
+2025-09-16 11:16:31,748 - INFO - Format được chọn: 299+140-drc - 1920x1080 - 2443.82kbps - avc1.64002a
+2025-09-16 11:16:31,748 - INFO - Format được chọn: 299+140-drc - 1920x1080 - 2443.82kbps - avc1.64002a
+2025-09-16 11:16:31,753 - INFO - Chi tiết format: ID=299+140-drc, Resolution=1920x1080, VBR=2443.82kbps, Codec=avc1.64002a
+2025-09-16 11:17:53,783 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g.mp4
+2025-09-16 11:17:53,784 - INFO - Đã tải xong: E:\tool-down-Youtube-and-cut\downloads\Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g.mp4
+2025-09-16 11:17:53,797 - INFO - Starting video splitting: E:\tool-down-Youtube-and-cut\downloads\Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g.mp4
+2025-09-16 11:17:54,206 - INFO - Video duration: 1801.95 seconds
+2025-09-16 11:17:54,207 - INFO - Will create 26 segments
+2025-09-16 11:17:54,208 - INFO - Creating segment 1: start=0.00s, duration=72.00s
+2025-09-16 11:17:54,538 - INFO - Segment 1 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_01.mp4
+2025-09-16 11:17:54,539 - INFO - Creating segment 2: start=72.00s, duration=73.00s
+2025-09-16 11:17:54,728 - INFO - Segment 2 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_02.mp4
+2025-09-16 11:17:54,729 - INFO - Creating segment 3: start=145.00s, duration=73.00s
+2025-09-16 11:17:54,956 - INFO - Segment 3 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_03.mp4
+2025-09-16 11:17:54,957 - INFO - Creating segment 4: start=218.00s, duration=71.00s
+2025-09-16 11:17:55,146 - INFO - Segment 4 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_04.mp4
+2025-09-16 11:17:55,147 - INFO - Creating segment 5: start=289.00s, duration=71.00s
+2025-09-16 11:17:55,381 - INFO - Segment 5 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_05.mp4
+2025-09-16 11:17:55,382 - INFO - Creating segment 6: start=360.00s, duration=71.00s
+2025-09-16 11:17:55,903 - INFO - Segment 6 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_06.mp4
+2025-09-16 11:17:55,904 - INFO - Creating segment 7: start=431.00s, duration=71.00s
+2025-09-16 11:17:56,131 - INFO - Segment 7 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_07.mp4
+2025-09-16 11:17:56,132 - INFO - Creating segment 8: start=502.00s, duration=73.00s
+2025-09-16 11:17:56,355 - INFO - Segment 8 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_08.mp4
+2025-09-16 11:17:56,356 - INFO - Creating segment 9: start=575.00s, duration=73.00s
+2025-09-16 11:17:56,867 - INFO - Segment 9 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_09.mp4
+2025-09-16 11:17:56,868 - INFO - Creating segment 10: start=648.00s, duration=72.00s
+2025-09-16 11:17:57,108 - INFO - Segment 10 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_10.mp4
+2025-09-16 11:17:57,109 - INFO - Creating segment 11: start=720.00s, duration=73.00s
+2025-09-16 11:17:57,598 - INFO - Segment 11 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_11.mp4
+2025-09-16 11:17:57,599 - INFO - Creating segment 12: start=793.00s, duration=71.00s
+2025-09-16 11:17:58,258 - INFO - Segment 12 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_12.mp4
+2025-09-16 11:17:58,260 - INFO - Creating segment 13: start=864.00s, duration=71.00s
+2025-09-16 11:17:59,295 - INFO - Segment 13 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_13.mp4
+2025-09-16 11:17:59,296 - INFO - Creating segment 14: start=935.00s, duration=73.00s
+2025-09-16 11:17:59,567 - INFO - Segment 14 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_14.mp4
+2025-09-16 11:17:59,568 - INFO - Creating segment 15: start=1008.00s, duration=73.00s
+2025-09-16 11:18:00,352 - INFO - Segment 15 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_15.mp4
+2025-09-16 11:18:00,353 - INFO - Creating segment 16: start=1081.00s, duration=72.00s
+2025-09-16 11:18:01,046 - INFO - Segment 16 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_16.mp4
+2025-09-16 11:18:01,047 - INFO - Creating segment 17: start=1153.00s, duration=72.00s
+2025-09-16 11:18:01,874 - INFO - Segment 17 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_17.mp4
+2025-09-16 11:18:01,875 - INFO - Creating segment 18: start=1225.00s, duration=72.00s
+2025-09-16 11:18:02,494 - INFO - Segment 18 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_18.mp4
+2025-09-16 11:18:02,495 - INFO - Creating segment 19: start=1297.00s, duration=71.00s
+2025-09-16 11:18:03,154 - INFO - Segment 19 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_19.mp4
+2025-09-16 11:18:03,155 - INFO - Creating segment 20: start=1368.00s, duration=72.00s
+2025-09-16 11:18:03,736 - INFO - Segment 20 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_20.mp4
+2025-09-16 11:18:03,737 - INFO - Creating segment 21: start=1440.00s, duration=72.00s
+2025-09-16 11:18:04,451 - INFO - Segment 21 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_21.mp4
+2025-09-16 11:18:04,452 - INFO - Creating segment 22: start=1512.00s, duration=71.00s
+2025-09-16 11:18:05,213 - INFO - Segment 22 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_22.mp4
+2025-09-16 11:18:05,214 - INFO - Creating segment 23: start=1583.00s, duration=71.00s
+2025-09-16 11:18:05,816 - INFO - Segment 23 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_23.mp4
+2025-09-16 11:18:05,817 - INFO - Creating segment 24: start=1654.00s, duration=73.00s
+2025-09-16 11:18:07,366 - INFO - Segment 24 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_24.mp4
+2025-09-16 11:18:07,369 - INFO - Creating segment 25: start=1727.00s, duration=71.00s
+2025-09-16 11:18:07,972 - INFO - Segment 25 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_25.mp4
+2025-09-16 11:18:07,972 - INFO - Creating segment 26: start=1798.00s, duration=3.95s
+2025-09-16 11:18:08,165 - INFO - Segment 26 created successfully: Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_26.mp4
+2025-09-16 11:18:08,166 - INFO - Successfully created 26 segments
+2025-09-16 11:18:08,167 - INFO - Đã cắt thành 26 đoạn
+2025-09-16 11:18:08,168 - INFO - Đã cắt thành 26 đoạn
+2025-09-16 11:18:08,178 - INFO - Đã cắt thành 26 đoạn video
+2025-09-16 11:18:08,179 - INFO - Đã cắt thành 26 đoạn video
+2025-09-16 11:18:08,186 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-16 11:18:08,187 - INFO - 
+=== Đã xử lý 26 video ===
+2025-09-16 11:18:08,195 - INFO - 
+=== KẾT QUẢ ===
+2025-09-16 11:18:08,200 - INFO - Đã xử lý thành công: 26 video
+2025-09-16 11:18:08,204 - INFO - 1. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_01.mp4 (18.3 MB)
+2025-09-16 11:18:08,206 - INFO - 2. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_02.mp4 (17.8 MB)
+2025-09-16 11:18:08,210 - INFO - 3. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_03.mp4 (20.1 MB)
+2025-09-16 11:18:08,216 - INFO - 4. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_04.mp4 (19.8 MB)
+2025-09-16 11:18:08,220 - INFO - 5. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_05.mp4 (17.7 MB)
+2025-09-16 11:18:08,225 - INFO - 6. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_06.mp4 (20.2 MB)
+2025-09-16 11:18:08,232 - INFO - 7. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_07.mp4 (18.2 MB)
+2025-09-16 11:18:08,237 - INFO - 8. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_08.mp4 (22.2 MB)
+2025-09-16 11:18:08,244 - INFO - 9. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_09.mp4 (22.4 MB)
+2025-09-16 11:18:08,249 - INFO - 10. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_10.mp4 (26.7 MB)
+2025-09-16 11:18:08,255 - INFO - 11. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_11.mp4 (27.8 MB)
+2025-09-16 11:18:08,263 - INFO - 12. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_12.mp4 (25.2 MB)
+2025-09-16 11:18:08,268 - INFO - 13. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_13.mp4 (22.9 MB)
+2025-09-16 11:18:08,272 - INFO - 14. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_14.mp4 (15.0 MB)
+2025-09-16 11:18:08,277 - INFO - 15. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_15.mp4 (18.6 MB)
+2025-09-16 11:18:08,281 - INFO - 16. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_16.mp4 (24.8 MB)
+2025-09-16 11:18:08,286 - INFO - 17. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_17.mp4 (33.0 MB)
+2025-09-16 11:18:08,292 - INFO - 18. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_18.mp4 (21.0 MB)
+2025-09-16 11:18:08,298 - INFO - 19. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_19.mp4 (30.3 MB)
+2025-09-16 11:18:08,306 - INFO - 20. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_20.mp4 (27.4 MB)
+2025-09-16 11:18:08,310 - INFO - 21. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_21.mp4 (21.6 MB)
+2025-09-16 11:18:08,315 - INFO - 22. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_22.mp4 (27.4 MB)
+2025-09-16 11:18:08,318 - INFO - 23. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_23.mp4 (24.7 MB)
+2025-09-16 11:18:08,324 - INFO - 24. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_24.mp4 (24.3 MB)
+2025-09-16 11:18:08,329 - INFO - 25. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_25.mp4 (21.7 MB)
+2025-09-16 11:18:08,333 - INFO - 26. Podremos Derrotar al bebé amarillo para siempre_kNrRmtYR34g_26.mp4 (1.2 MB)
+2025-09-16 11:18:08,341 - INFO - 
+Tất cả file đã được lưu trong: E:\tool-down-Youtube-and-cut\downloads
